@@ -21,35 +21,14 @@ In work [published in Neuroimage: Clinical](http://www.sciencedirect.com/science
 
 One of the major focuses of the MELD PROJECT is to empower researchers to make their work reproducible from beginning to end.
 
-<a href="https://thenib.com/repeat-after-me">
-  <img alt="reproducibility definition from the nib comic strip"
-       src="https://thenib.imgix.net/usq/a81ad36e-ecfe-46e2-9710-ab4d77d97a09/repeat-after-me-004-c4c849.jpeg?auto=compress,format"
-       width="80%" >
-</a>
-
-*Panel from [Repeat After Me](https://thenib.com/repeat-after-me), by [Maki Naro](https://thenib.com/maki-naro).*
-
-Reproducible research is work that can be independently verified. In practise it means sharing the data and the code that were used to generate scientific results. Without the evidence of what was done, journal articles are simply nice, interesting stories. All readers, not just collaborators or the original authors, must be able to check published research.
-
-This comic strip, [Repeat After Me](https://thenib.com/repeat-after-me), by [Maki Naro](https://thenib.com/maki-naro) for [The Nib](https://thenib.com/) is a really wonderful explanation of the incentive structure in academic research and how it has contributed to the current reproducibility crisis.
-
-### Working Open
-
-If all research is published reproducibly the scientific community as a whole will benefit. We will be more efficient: the current system requires too much time spent reinventing the wheel.
-
-At the Whitaker Lab we're committed to working open. We believe that by sharing our code, documentation, data (where possible) and works in progress we will be faster at answer the important questions of adolescent brain development and mental health challenges.
-
-You can read more about working open through Mozilla's [Open Leadership Training](https://mozilla.github.io/leadership-training/) program.
 
 ### Contact
 
-You can contact Kirstie at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) or on twitter [@kirstie_j](https://twitter.com/kirstie_j).
+You can contact us at [MELD.study@gmail.com](mailto:MELD.study@gmail.com).
 
-The lab tweets [@Whitaker_Lab](https://twitter.com/Whitaker_Lab). Give us a follow and let us know what you think.
+You're very welcome to contact us via [GitHub](https://github.com/MELDProject) too. 
 
-You're very welcome to contact us via [GitHub](https://github.com/whitakerlab) too. Check out the issues at the lab's [project management](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues) repository. You may be able to help us out!
-
-This website is hosted via [GitHub pages](https://github.com/WhitakerLab/whitakerlab.github.io). If you see any typos or other mistakes please let us know...or file a pull request with your edits.
+This website is hosted via [GitHub pages](https://github.com/MELDProject/MELDProject.github.io). If you see any typos or other mistakes please let us know...or file a pull request with your edits.
 
 
 <!---
