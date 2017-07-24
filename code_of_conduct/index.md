@@ -23,7 +23,7 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 Members of the community who violate these rules - no matter how much they have contributed to the MELD project, or how specialised their skill set - will be approached by Sophie Adler. If inappropriate behaviour persists after a discussion with Sophie, the contributor will be asked to discontinue their participation in MELD projects.
 
-To report an issue please contact Sophie Adler (sophie.adler.13@ucl.ac.uk). If your concern is related to Sophie Adler, please contact Torsten Baldeweg (t.baldeweg@ucl.ac.uk). All communication will be treated as confidential.
+To report an issue please contact [Sophie Adler](mailto:sophie.adler.13@ucl.ac.uk) (sophie.adler.13@ucl.ac.uk). If your concern is related to Sophie Adler, please contact [Torsten Baldeweg](mailto:t.baldeweg@ucl.ac.uk)(t.baldeweg@ucl.ac.uk). All communication will be treated as confidential.
 
 # Feedback
 
@@ -35,5 +35,5 @@ We value constructive feedback and encourage our contributors to provide ideas a
 * Any bugs in any of the code
 * Or anything else
 
-**Help us to improve this project by contacting MELD.study@gmail.com.**
+**Help us to improve this project by contacting [MELD.study@gmail.com](mailto:MELD.study@gmail.com).**
 

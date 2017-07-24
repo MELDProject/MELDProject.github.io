@@ -25,6 +25,13 @@ Since this publication, a number of groups world-wide have downloaded the freely
 
 ***The MELD Project is an international collaboration aiming to develop lesion detection and normalisation techniques for the incorporation of data and sequences from multiple sites.   One of the major focuses of the project is to create open-access, robust and generalisable tools for FCD detection.***
 
+We aim to:
+* continue to develop AI capabilities to detect FCDs
+* train classifiers on data from multiple centres (including paediatric and adult data)
+* create clinically useful tools that can be used in the pre-surgical evaluation of patients with drug-resistant epilepsy to aid radiological diagnosis
+
+Thanks for taking a look and feel free to contact us if you would like to find out more!
+
 ### Contact
 
 You can contact us at [MELD.study@gmail.com](mailto:MELD.study@gmail.com).
