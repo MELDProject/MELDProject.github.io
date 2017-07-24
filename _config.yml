@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Whitaker Lab
+title: MELD Project
 locale: en_US
-description: Updates from Kirstie's lab at the Turing Institute.
-logo: site-logo.png
+description: Updates from the Multi-centre Epilepsy Lesion Detection (MELD) Project.
+logo: MELD_logo.png
 search: true
-url: https://whitakerlab.github.io
+url: https://MELDProject.github.io
 
 # Jekyll configuration
 
@@ -38,13 +38,13 @@ repository: whitakerlab/whitakerlab.github.io
 
 # Site owner
 owner:
-  name: Kirstie Whitaker
-  avatar: KW_OpenCon2016_Square.jpg
-  email: kwhitaker@turing.ac.uk
+  name: Sophie Adler & Konrad Wagstyl
+  avatar: MELD_logo.png
+  email: MELD.study@gmail.com
   disqus-shortname:
-  twitter: Whitaker_Lab
+twitter: #username
   facebook: #username
-  github: KirstieJane
+  github: MELDProject
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
