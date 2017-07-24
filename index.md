@@ -41,4 +41,4 @@ You're very welcome to contact us via [GitHub](https://github.com/MELDProject) t
 This website is hosted via [GitHub pages](https://github.com/MELDProject/MELDProject.github.io). If you see any typos or other mistakes please let us know...or file a pull request with your edits.
 
 ## Acknowledgements
-This website is based on [Kirstie Whitaker's] (https://whitakerlab.github.io/) website. It uses the [So Simple Theme](http://mmistakes.github.io/so-simple-theme) by designer slash illustrator [Michael Rose](http://mademistakes.com). THANK YOU Kirstie and Michael :tada: :sparkles:
+This website is based on [Kirstie Whitaker's](https://whitakerlab.github.io/) website. It uses the [So Simple Theme](http://mmistakes.github.io/so-simple-theme) by designer slash illustrator [Michael Rose](http://mademistakes.com). THANK YOU Kirstie and Michael :tada: :sparkles:
