@@ -1,5 +1,8 @@
 # Site navigation links
 
+- title: Home
+  url: https://meldproject.github.io/
+
 - title: Who's Involved
   url: /groups/
 
@@ -15,5 +18,5 @@
 - title: GitHub
   url: https://github.com/MELDProject
 
-- title: Home
-url: /
+- title: Code of Conduct
+url: /code_of_conduct/
