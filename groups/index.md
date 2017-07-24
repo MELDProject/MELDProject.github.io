@@ -23,6 +23,6 @@ We are working with Dr Irene Wang's group at the Cleveland Clinic, Ohio, USA. Th
 ### National Hospital for Neurology and Neurosurgery
 We are working with Dr Gavin Winston's group at the National Hospital for Neurology and Neurosurgery.
 
-## If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers. ##
+** If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers. **
 
 
