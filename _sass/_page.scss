@@ -21,7 +21,7 @@
 
 .entry-feature-image {
 	margin: 20px 0 0;
-	width: 100%;
+	width: 200%;
 
 	@include media($medium) {
 		margin-top: -75px; /* move up to be overlapped by site logo */
@@ -159,7 +159,7 @@ span + .entry-title {
 
 .image-credit {
   margin: 0 auto;
-  max-width: 440px;
+  max-width: 460px;
   padding-top: 5px;
   padding-right: 20px;
   padding-left: 20px;
