@@ -16,14 +16,14 @@ Focal cortical dysplasia (FCD) is a congenital abnormality of cortical developme
 In work [published in Neuroimage: Clinical](http://www.sciencedirect.com/science/article/pii/S2213158216302674?via%3Dihub) in 2017, Adler, Wagstyl et al., developed a classifier using surface-based features to identify focal abnormalities of cortical development in a paediatric cohort. Focal cortical dysplasias in this paediatric cohort were correctly identified in 73% of the children.
 
 <figure>
-<img src="/images/FCD_radiological.png"
+<img src="/images/Example_classifier_results.png"
 alt="FCD examples">
 <figcaption>  Examples of cortical area detected by the neural network classifier in 5 patients with a radiological diagnosis of FCD. First column: T1-weighted images. Second column: FLAIR images. White circle on T1 and FLAIR images indicates lesion location. Third column: Neural network classifier output (yellow) and manual lesion mask (light blue) viewed on pial surface, for large lesions, or inflated surface, for small lesions buried in sulci.</figcaption>
 </figure>
 
-### Open, Reproducible Research
+Since this publication, a number of groups world-wide have downloaded the freely available [code](https://github.com/kwagstyl/FCDdetection/) so that they can replicate this work at their own site, on their own scanner and patients. However, to date, surface-based automated lesion detection studies have been single-centre and it is unclear how generalisable the developed frameworks and tools are. Furthermore, machine learning continues to improve with increasing numbers of examples. 
 
-One of the major focuses of the MELD Project is to create open-access, robust and generalisable tools for FCD detection. 
+***The MELD Project is an international collaboration aiming to develop lesion detection and normalisation techniques for the incorporation of data and sequences from multiple sites.   One of the major focuses of the project is to create open-access, robust and generalisable tools for FCD detection.***
 
 ### Contact
 
