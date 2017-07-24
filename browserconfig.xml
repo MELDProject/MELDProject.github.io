@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/FCD_radiological.png"/>
+            <square150x150logo src="/MELD_logo.png"/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
