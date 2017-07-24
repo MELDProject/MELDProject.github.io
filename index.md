@@ -42,6 +42,7 @@ This website is hosted via [GitHub pages](https://github.com/MELDProject/MELDPro
 
 ## Acknowledgements
 This website is based on [Kirstie Whitaker's] (https://whitakerlab.github.io/) website. It uses the [So Simple Theme](http://mmistakes.github.io/so-simple-theme) by designer slash illustrator [Michael Rose](http://mademistakes.com). THANK YOU Kirstie and Michael :tada: :sparkles:
+
 <!---
 Commented out the code to list recent posts. Might be useful again one day in the future!
 <ul class="post-list">
