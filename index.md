@@ -15,12 +15,15 @@ Focal cortical dysplasia (FCD) is a congenital abnormality of cortical developme
 
 In work [published in Neuroimage: Clinical](http://www.sciencedirect.com/science/article/pii/S2213158216302674?via%3Dihub) in 2017, Adler, Wagstyl et al., developed a classifier using surface-based features to identify focal abnormalities of cortical development in a paediatric cohort. Focal cortical dysplasias in this paediatric cohort were correctly identified in 73% of the children.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/ztm2knaLBFc" frameborder="0"> </iframe>
+<figure>
+<img src="/images/FCD_radiological.png"
+alt="FCD examples">
+<figcaption>  Examples of cortical area detected by the neural network classifier in 5 patients with a radiological diagnosis of FCD. First column: T1-weighted images. Second column: FLAIR images. White circle on T1 and FLAIR images indicates lesion location. Third column: Neural network classifier output (yellow) and manual lesion mask (light blue) viewed on pial surface, for large lesions, or inflated surface, for small lesions buried in sulci.</figcaption>
+</figure>
 
-### Reproducible research
+### Open, Reproducible Research
 
-One of the major focuses of the MELD PROJECT is to empower researchers to make their work reproducible from beginning to end.
-
+One of the major focuses of the MELD Project is to create open-access, robust and generalisable tools for FCD detection. 
 
 ### Contact
 
