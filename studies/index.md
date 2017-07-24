@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Useful resources
-excerpt: "An archive of resources sorted by date."
+title: Studies
+excerpt: "On-going Projects"
 search_omit: true
 ---
 
