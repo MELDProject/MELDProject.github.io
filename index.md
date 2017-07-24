@@ -42,12 +42,3 @@ This website is hosted via [GitHub pages](https://github.com/MELDProject/MELDPro
 
 ## Acknowledgements
 This website is based on [Kirstie Whitaker's] (https://whitakerlab.github.io/) website. It uses the [So Simple Theme](http://mmistakes.github.io/so-simple-theme) by designer slash illustrator [Michael Rose](http://mademistakes.com). THANK YOU Kirstie and Michael :tada: :sparkles:
-
-<!---
-Commented out the code to list recent posts. Might be useful again one day in the future!
-<ul class="post-list">
-{% for post in site.posts limit:10 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
--->
