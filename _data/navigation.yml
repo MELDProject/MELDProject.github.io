@@ -1,10 +1,10 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Who's Involved'
+  url: /groups/
 
-- title: Resources
-  url: /resources/
+- title: On-going Studies
+  url: /studies/
 
 - title: Blog
   url: /blog/
