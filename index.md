@@ -9,12 +9,11 @@ The Multi-centre Epilepsy Lesion Detection (MELD) project is an international co
 
 We hope you find this site a useful source of information about the MELD project.
 
-### Focal Cortical Dysplasia
+### Automated Detection of Focal Cortical Dysplasias
 
 Focal cortical dysplasia (FCD) is a congenital abnormality of cortical development and a leading cause of surgically remediable drug resistant epilepsy. MRI has played a major role in the evaluation of patients; yet, significant proportions of lesions remain undetected by conventional image analysis. Machine learning offers a powerful framework to develop automated and individualised clinical tools that may improve the detection of lesions and prediction of clinically relevant outcome. 
 
-The MELD project uses 
-In work [published in PNAS](http://dx.doi.org/10.1073/pnas.1601745113) in 2016, the NSPN consortium showed that the particularly well connected regions - the hubs of the network - continue to develop throughout the teenage years, and this may be a mechanism to explain the emergence of mental health disorders during the teenage years.
+In work [published in Neuroimage: Clinical](http://www.sciencedirect.com/science/article/pii/S2213158216302674?via%3Dihub) in 2017, Adler, Wagstyl et al., developed a classifier using surface-based features to identify focal abnormalities of cortical development in a paediatric cohort. Focal cortical dysplasias in this paediatric cohort were correctly identified in 73% of the children.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/ztm2knaLBFc" frameborder="0"> </iframe>
 

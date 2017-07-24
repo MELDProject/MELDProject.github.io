@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About the Whitaker Lab
-excerpt: "Members of the Whitaker lab and their research interests."
+title: Groups involved in the MELD Project
+excerpt: "Members of the MELD Project"
 ---
 
-***work in progress***
+Great Ormond Street Hospital
+Cleveland Clinic 
+Queen Square
