@@ -6,6 +6,13 @@ excerpt: "Members of the MELD Project"
 
 Sophie Adler and Konrad Wagstyl set up the MELD Project. 
 
+
+<figure>
+<img src="/images/ohbm.jpg"
+alt="Sophie and Konrad at OHBM">
+<figcaption>Sophie and Konrad presenting work on automated FCD detection at the Organisation of Human Brain Mapping conference in Vancouver.</figcaption>
+</figure>
+
 Sophie is a MBPhD student from University College London who is finishing a PhD on cortical morphometry and MR signal intensity analysis in paediatric epilepsy. Konrad Wagstyl is a MBPhD student from the University of Cambridge who is finishing a PhD on deep learning and cortical structure. This project is supervised by Professor Torsten Baldeweg from the Great Ormond Street Institute of Child Health.
 
 A number of centres are using the automated FCD detection [code](https://github.com/kwagstyl/FCDdetection) that is freely available to download. We are also collaborating with interested groups to build robust and generalisable tools.
