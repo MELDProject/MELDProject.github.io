@@ -21,7 +21,7 @@ A number of centres are using the automated FCD detection [code](https://github.
 
 We are delighted that a number of different groups have joined our multi-centre collaboration.
 
-## Great Ormond Street Hospital (GOSH)
+### Great Ormond Street Hospital (GOSH)
 GOSH is a leading centre in paediatric epilepsy surgery in Europe operating on around X children with drug-resistant epilepsy per year. We are working with clinicians such as Professor Helen Cross and Dr Roxana Gunny as well as researchers such as Dr David Carmichael and Dr Sara Lorio.
 
 ### Cleveland Clinic 
