@@ -43,15 +43,15 @@
     
 
     @include media($medium) {
-      width: 150px;
-      height: 150px;
-      @include rounded(150px); /* crops in a circle */
+      width: 300px;
+      height: 200px;
+      
     }
 
     @include media($large) {
-      width: 200px;
+      width: 300px;
       height: 200px;
-      @include rounded(200px); /* crops in a circle */
+     
     }
   }
 }
