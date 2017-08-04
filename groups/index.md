@@ -22,13 +22,13 @@ A number of centres are using the automated FCD detection [code](https://github.
 We are delighted that a number of different groups have joined our multi-centre collaboration.
 
 ### Great Ormond Street Hospital (GOSH)
-GOSH is a leading centre in paediatric epilepsy surgery in Europe operating on around X children with drug-resistant epilepsy per year. We are working with clinicians such as Professor Helen Cross and Dr Roxana Gunny as well as researchers such as Dr David Carmichael and Dr Sara Lorio.
+GOSH is a leading centre in paediatric epilepsy surgery in Europe. It has had a programme for surgery for treating epilepsy in children since 1992. We are working with clinicians such as Professor Helen Cross and Dr Roxana Gunny as well as researchers such as Dr David Carmichael and Dr Sara Lorio.
 
 ### Cleveland Clinic 
 We are working with Dr Irene Wang's group at the Cleveland Clinic, Ohio, USA. This is one of the largest epilepsy programmes in the world treating both adults and children.  
 
 ### National Hospital for Neurology and Neurosurgery
-We are working with Dr Gavin Winston's group at the National Hospital for Neurology and Neurosurgery.
+The National Hospital for Neurology and Neurosurgery has the largest adult epilepsy surgery programme in the UK. The Epilepsy Imaging Group of the UCL Institute of Neurology has a long history of developing imaging techniques to improve surgical treatment for patients with epilepsy. We are working with Dr Gavin Winston's group at the National Hospital for Neurology and Neurosurgery.
 
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
