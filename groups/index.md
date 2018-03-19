@@ -18,7 +18,7 @@ We are delighted that a number of different groups have joined our multi-centre 
 <figure>
 <img src="/images/WRLD-EPS-02-4001-01.png"
 alt="Sophie and Konrad at OHBM">
-<figcaption>World map showing locations of collaborators.>
+<figcaption>World map showing locations of collaborators.</figcaption>
 </figure>
 ### Great Ormond Street Hospital (GOSH)
 GOSH is a leading centre in paediatric epilepsy surgery in Europe. It has had a programme for surgery for treating epilepsy in children since 1992. We are working with clinicians such as Professor Helen Cross and Dr Roxana Gunny as well as researchers such as Dr David Carmichael and Dr Sara Lorio.
