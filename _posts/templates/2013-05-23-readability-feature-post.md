@@ -8,7 +8,6 @@ modified: 2013-06-30
 image:
   feature: so-simple-sample-image-1.jpg
   credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 ---
