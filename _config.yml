@@ -5,7 +5,7 @@ locale: en_US
 description: Updates from the Multi-centre Epilepsy Lesion Detection (MELD) Project.
 logo: MELD_logo.png
 search: true
-url: https://MELDProject.github.io
+url: https://MELDProject.github.io/
 
 # Jekyll configuration
 
@@ -38,7 +38,7 @@ repository: MELDProject/MELDProject.github.io
 
 # Site owner
 owner:
-  name: Sophie Adler & Konrad Wagstyl
+  name: Sophie Adler and Konrad Wagstyl
   avatar: MELD_logo.png
   email: MELD.study@gmail.com
   disqus-shortname:

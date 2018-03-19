@@ -7,11 +7,11 @@ sophie_adler:
   avatar: SA_avatar.jpg
   twitter: sophieadler
 
-isla_staden:
-  name: Isla Staden
-  email: istaden@turing.ac.uk
-  bio: "Placement Research Assistant at the Alan Turing Institute. Interested in data-science, brain networks and topology" # Add a few words about yourself within the quotation marks.
-  avatar: IS_whitakerblogprofile.jpg # Please add a picture to the images folder (ok to be an avatar rather than a picture of you if you'd prefer)
+meld:
+  name: Sophie Adler and Konrad Wagstyl
+  email: MELD.study@gmail.com
+  bio: "" # Add a few words about yourself within the quotation marks.
+  avatar: MELD_logo.png
   twitter: # Ok to leave blank
 
 #=============================================
@@ -22,7 +22,7 @@ billy_rick:
   web: http://thewhip.com
   email: billy@rick.com
   bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
+  avatar: bio-photo.jpg
   twitter: extravagantman
   google:
     plus: BillyRick
