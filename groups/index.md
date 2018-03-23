@@ -38,6 +38,9 @@ The Greifswald Epilepsy Center is part of the Neurological Department at the Uni
 ### Hospital Del Mar
 We work with Dr Sofia Gonzalez-Ortiz at the Hospital Del Mar in Barcelona, Spain. The mission of the Epilepsy Unit of the Hospital del Mar is to be a national reference in the diagnosis and treatment of epilepsy throughout all ages of patients' life.
 
+### Gaslini Institute, Genova, Italy
+G. Gaslini Institute is a paediatric hospital based in Genova and is a national reference in the diagnosis and treatment of epilepsy and other neurodevelopmental diseases. There is a dedicated programme of research into epilepsy genetics and clinical management of the patients, including a programme for surgery. 
+
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
 
