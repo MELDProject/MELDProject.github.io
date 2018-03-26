@@ -41,6 +41,9 @@ We work with Dr Sofia Gonzalez-Ortiz at the Hospital Del Mar in Barcelona, Spain
 ### Gaslini Institute, Genova, Italy
 G. Gaslini Institute is a paediatric hospital based in Genova and is a national reference in the diagnosis and treatment of epilepsy and other neurodevelopmental diseases. There is a dedicated programme of research into epilepsy genetics and clinical management of the patients, including a programme for surgery. 
 
+### Hospital Clinic of Barcelona
+The Epilepsy Unit of the Hospital Clinic of Barcelona  is a reference center of epilepsy surgery in Spain.  From the Hospital Clínic we coordinate the Functional Unit of Epilepsy Surgery of Catalonia and we are also accredited by the Ministry of Health to evaluate patients referred from other autonomous communities that do not have this program. Since the creation of the Unit, we have evaluated more than 1,500 patients with refractory epilepsy and we have operated on more than 400 patients. One of our research lines are the utility of neuroimaging techniques, in helping to detect the epileptogenic focus. The head of the Epilepsy Unit is Dr Marr Carreño and the lead of the imaging group in Dra Nuria Bargalló.
+ 
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
 
