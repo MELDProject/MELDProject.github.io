@@ -46,7 +46,10 @@ The Epilepsy Unit of the Hospital Clinic of Barcelona  is a reference center of 
 
 ### Institute of Neurology at University Magna Graecia
 The Institute of Neurology at University Magna Graecia in Catanzaro hosts a reference Epilepsy Center in Southern Italy. The research Unit, led by Prof. Antonio Gambardella and Prof. Angelo Labate, closely collaborates with the Neuroscience Research Center of University Magna Graecia and with the Institute of Molecular Bioimaging and Physiology of the National Research Council, both located in Catanzaro. In this setting, neurologists, neuropsychologists, biologists and neuroimaging experts collaborate to carry on multimodal research on epileptic syndromes, especially on Mild and refractory Temporal Lobe Epilepsy.
- 
+
+### UNICAMP Epilepsy Surgery Programme and Laboratory of Neuroimaging.
+The Epilepsy Imaging research team, coordinated by Prof. Fernando Cendes, is based on the Laboratory of Neuroimaging associate to the Department of Neurology of the University of Campinas (UNICAMP), Brazil. This lab provides conditions to evaluate and quantify structural and metabolic alterations of the CNS, using various techniques of MRI, for both imaging acquisition and postprocessing techniques of high complexity, and development of new tools and software for better evaluation of neuroimaging data. The Neuroimaging group at UNICAMP is inserted into one of the FAPESP Programs of Research and Innovation, The Brazilian Research Institute for Neuroscience and Neurotechnology (BRAINN http://cepid.fapesp.br/en/centro/11) with several projects funded, including undergraduate students, master's, doctoral and postdoctoral studies. 
+
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
 
