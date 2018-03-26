@@ -43,6 +43,9 @@ G. Gaslini Institute is a paediatric hospital based in Genova and is a national 
 
 ### Hospital Clinic of Barcelona
 The Epilepsy Unit of the Hospital Clinic of Barcelona  is a reference center of epilepsy surgery in Spain.  From the Hospital Clínic we coordinate the Functional Unit of Epilepsy Surgery of Catalonia and we are also accredited by the Ministry of Health to evaluate patients referred from other autonomous communities that do not have this program. Since the creation of the Unit, we have evaluated more than 1,500 patients with refractory epilepsy and we have operated on more than 400 patients. One of our research lines are the utility of neuroimaging techniques, in helping to detect the epileptogenic focus. The head of the Epilepsy Unit is Dr Marr Carreño and the lead of the imaging group in Dra Nuria Bargalló.
+
+### Institute of Neurology at University Magna Graecia
+The Institute of Neurology at University Magna Graecia in Catanzaro hosts a reference Epilepsy Center in Southern Italy. The research Unit, led by Prof. Antonio Gambardella and Prof. Angelo Labate, closely collaborates with the Neuroscience Research Center of University Magna Graecia and with the Institute of Molecular Bioimaging and Physiology of the National Research Council, both located in Catanzaro. In this setting, neurologists, neuropsychologists, biologists and neuroimaging experts collaborate to carry on multimodal research on epileptic syndromes, especially on Mild and refractory Temporal Lobe Epilepsy.
  
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
