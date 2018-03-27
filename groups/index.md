@@ -50,10 +50,10 @@ The Institute of Neurology at University Magna Graecia in Catanzaro hosts a refe
 ### UNICAMP Epilepsy Surgery Programme and Laboratory of Neuroimaging, Brazil
 The Epilepsy Imaging research team, coordinated by Prof. Fernando Cendes, is based on the Laboratory of Neuroimaging associate to the Department of Neurology of the University of Campinas (UNICAMP), Brazil. This lab provides conditions to evaluate and quantify structural and metabolic alterations of the CNS, using various techniques of MRI, for both imaging acquisition and postprocessing techniques of high complexity, and development of new tools and software for better evaluation of neuroimaging data. The Neuroimaging group at UNICAMP is inserted into one of the FAPESP Programs of Research and Innovation, The Brazilian Research Institute for Neuroscience and Neurotechnology (BRAINN http://cepid.fapesp.br/en/centro/11) with several projects funded, including undergraduate students, master's, doctoral and postdoctoral studies. 
 
-### The Florey Institute of Neuroscience and Mental Health, Australia
+### The Florey Institute of Neuroscience and Mental Health, Melbourne, Australia
 The Florey's Epilepsy division is a world-leading centre for epilepsy research. The division has major groups at both the Florey’s Austin and Parkville campus. The group studies mechanisms that cause epilepsy from the level of cells to the function of the whole brain. We use technologies including advanced MRI and cutting edge cellular physiology techniques to allow us to understand genetic and acquired mechanisms that give rise to epilepsy. 
 
-### Epilepsy and Neuropharmacology Research Group 
+### Epilepsy and Neuropharmacology Research Group, Melbourne, Australia
 The Research of the Epilepsy and Neuropharmacology Research Group is broad based, covering both basic and clinical studies relevant to epilepsy and related areas, including traumatic brain injury and dementing disorders.
 
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
