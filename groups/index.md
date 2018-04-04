@@ -36,7 +36,7 @@ The National Hospital for Neurology and Neurosurgery has the largest adult epile
 The Greifswald Epilepsy Center is part of the Neurological Department at the University Medicine of Greifswald with a long tradition since 1974. Presurgical diagnostic work-up in epilepsy patients has been performed since 1994. More than 2000 patients (adults and children) per year with epilepsy are treated in its outpatient clinic. We work with Dr. Felix von Podewils and Dr. Bernadette Gaida.
 
 ### Hospital Del Mar, Spain
-We work with Dr Sofia Gonzalez-Ortiz at the Hospital Del Mar in Barcelona, Spain. The mission of the Epilepsy Unit of the Hospital del Mar is to be a national reference in the diagnosis and treatment of epilepsy throughout all ages of patients' life.
+Hospital Del Mar, Spain. We work with the neuroradiologist  Dr Sofia Gonzalez-Ortiz at the Hospital Del Mar in Barcelona, Spain. The mission of the Epilepsy Unit, of the Hospital del Mar,  lead by Dr. Rodrigo R. Rocamora, is to be a national reference in the diagnosis and treatment of epilepsy throughout all ages of patients’ life.
 
 ### Gaslini Institute, Genova, Italy
 G. Gaslini Institute is a paediatric hospital based in Genova and is a national reference in the diagnosis and treatment of epilepsy and other neurodevelopmental diseases. There is a dedicated programme of research into epilepsy genetics and clinical management of the patients, including a programme for surgery. 
