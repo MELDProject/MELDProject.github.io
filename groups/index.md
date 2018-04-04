@@ -57,7 +57,7 @@ The Florey's Epilepsy division is a world-leading centre for epilepsy research. 
 The Research of the Epilepsy and Neuropharmacology Research Group is broad based, covering both basic and clinical studies relevant to epilepsy and related areas, including traumatic brain injury and dementing disorders.
 
 ### Beijing Tiantan Hospital, China
-The epilepsy center of Beijing Tiantan Hospital is one of the leading epilepsy center in China, which is led by Prof Jianguo Zhang. Our research issues include neuroimage, SEEG, epilepsy surgery and autoimmune epilepsy.
+The epilepsy center of Beijing Tiantan Hospital is one of the leading epilepsy centers in China, which is led by Prof Jianguo Zhang. Our research issues include neuroimaging, SEEG, epilepsy surgery and autoimmune epilepsy.
 
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
