@@ -59,6 +59,9 @@ The Research of the Epilepsy and Neuropharmacology Research Group is broad based
 ### Beijing Tiantan Hospital, China
 The epilepsy center of Beijing Tiantan Hospital is one of the leading epilepsy centers in China, which is led by Prof Jianguo Zhang. Our research issues include neuroimaging, SEEG, epilepsy surgery and autoimmune epilepsy.
 
+### Children’s Meyer Hospital Anna Meyer, Florence, Italy
+Children’s Meyer Hospital Anna Meyer in Florence is a reference pediatric hospital center in Italy. We work with Prof. Renzo Guerrini, head Director of the Neuroscience Department, whose research activities focus on neurophysiology, neuroimaging and neurogenetics of epilepsies, brain development and mental retardation. Prof. Guerrini’s group has made important contributions in characterizing the clinical phenotype and the genetic causes of various epilepsy or brain malformation syndromes and defining genotype-phenotype correlations.
+
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
 
