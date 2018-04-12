@@ -30,7 +30,7 @@ GOSH is a leading centre in paediatric epilepsy surgery in Europe. It has had a 
 We are working with Dr Irene Wang's group at the Cleveland Clinic, Ohio, USA. This is one of the largest epilepsy programmes in the world treating both adults and children.  
 
 ### National Hospital for Neurology and Neurosurgery, UK
-The National Hospital for Neurology and Neurosurgery has the largest adult epilepsy surgery programme in the UK. The Epilepsy Imaging Group of the UCL Institute of Neurology has a long history of developing imaging techniques to improve surgical treatment for patients with epilepsy. We are working with Dr Gavin Winston's group.
+The National Hospital for Neurology and Neurosurgery has the largest adult epilepsy surgery programme in the UK. The Epilepsy Imaging Group of the UCL Institute of Neurology has a long history of developing imaging techniques to improve surgical treatment for patients with epilepsy. We are working with Dr Gavin Winston and Prof John Duncan.
 
 ### Greifswald Epilepsy Center, Germany
 The Greifswald Epilepsy Center is part of the Neurological Department at the University Medicine of Greifswald with a long tradition since 1974. Presurgical diagnostic work-up in epilepsy patients has been performed since 1994. More than 2000 patients (adults and children) per year with epilepsy are treated in its outpatient clinic. We work with Dr. Felix von Podewils and Dr. Bernadette Gaida.
