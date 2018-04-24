@@ -62,6 +62,9 @@ The epilepsy center of Beijing Tiantan Hospital is one of the leading epilepsy c
 ### Children’s Meyer Hospital Anna Meyer, Florence, Italy
 Children’s Meyer Hospital Anna Meyer in Florence is a reference pediatric hospital center in Italy. We work with Prof. Renzo Guerrini, head Director of the Neuroscience Department, whose research activities focus on neurophysiology, neuroimaging and neurogenetics of epilepsies, brain development and mental retardation. Prof. Guerrini’s group has made important contributions in characterizing the clinical phenotype and the genetic causes of various epilepsy or brain malformation syndromes and defining genotype-phenotype correlations.
 
+### The New York University Comprehensive Epilepsy Center
+The New York University Comprehensive Epilepsy Center is among the largest epilepsy treatment programs in the United States. Our research extends from fundamental epilepsy neurobiology to novel interventions for epilepsy treatment, and includes new drug development that includes cannabis-based and genetic therapies, development of imaging-based markers for epilepsy outcomes, the genetics of epilepsy, sudden unexplained death in epilepsy, treatments for neuroinflammation-induced epilepsy, tuberous sclerosis and epilepsy, autism and epilepsy, and many others.
+
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
 
