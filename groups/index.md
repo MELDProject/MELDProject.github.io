@@ -65,6 +65,9 @@ Children’s Meyer Hospital Anna Meyer in Florence is a reference pediatric hosp
 ### The New York University Comprehensive Epilepsy Center
 The New York University Comprehensive Epilepsy Center is among the largest epilepsy treatment programs in the United States. Our research extends from fundamental epilepsy neurobiology to novel interventions for epilepsy treatment, and includes new drug development that includes cannabis-based and genetic therapies, development of imaging-based markers for epilepsy outcomes, the genetics of epilepsy, sudden unexplained death in epilepsy, treatments for neuroinflammation-induced epilepsy, tuberous sclerosis and epilepsy, autism and epilepsy, and many others.
 
+### Bristol Royal Hospital for Children, UK
+The Bristol Royal Hospital for Children is part of the Children's Epilepsy Surgery Service (CESS). It is one of the four paediatric epilepsy surgery centres in the UK treating children from all over Engalnd. We work with Dr Marcus Likeman, a consultant neuroradiologist.'
+
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
 
