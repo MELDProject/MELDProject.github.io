@@ -27,7 +27,7 @@ alt="Sophie and Konrad at OHBM">
 GOSH is a leading centre in paediatric epilepsy surgery in Europe. It has had a programme for surgery for treating epilepsy in children since 1992. We are working with clinicians such as Professor Helen Cross and Dr Roxana Gunny as well as researchers such as Dr David Carmichael and Dr Sara Lorio.
 
 ### Cleveland Clinic, USA
-We are working with Dr Irene Wang's group at the Cleveland Clinic, Ohio, USA. This is one of the largest epilepsy programmes in the world treating both adults and children.  
+We are working with Dr Irene Wang’s imaging research group at the Cleveland Clinic Epilepsy Center, Ohio, USA. The Cleveland Clinic Epilepsy Center is one of the largest epilepsy programmes in the world treating both adults and children.
 
 ### National Hospital for Neurology and Neurosurgery, UK
 The National Hospital for Neurology and Neurosurgery has the largest adult epilepsy surgery programme in the UK. The Epilepsy Imaging Group of the UCL Institute of Neurology has a long history of developing imaging techniques to improve surgical treatment for patients with epilepsy. We are working with Dr Gavin Winston and Prof John Duncan.
