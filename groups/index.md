@@ -36,7 +36,7 @@ The National Hospital for Neurology and Neurosurgery has the largest adult epile
 The Greifswald Epilepsy Center is part of the Neurological Department at the University Medicine of Greifswald with a long tradition since 1974. Presurgical diagnostic work-up in epilepsy patients has been performed since 1994. More than 2000 patients (adults and children) per year with epilepsy are treated in its outpatient clinic. We work with Dr. Felix von Podewils and Dr. Bernadette Gaida.
 
 ### Hospital Del Mar, Spain
-We work with the neuroradiologist  Dr Sofia Gonzalez-Ortiz at the Hospital Del Mar in Barcelona, Spain. The mission of the Epilepsy Unit, of the Hospital del Mar,  lead by Dr. Rodrigo R. Rocamora, is to be a national reference in the diagnosis and treatment of epilepsy throughout all ages of patients’ life.
+We work with the neuroradiologist  Dr Sofia Gonzalez-Ortiz at the Hospital Del Mar in Barcelona, Spain. The mission of the Epilepsy Unit, of the Hospital del Mar,  lead by Dr. Rodrigo R. Rocamora, is to be a national reference in the diagnosis and treatment of epilepsy throughout all ages of patients’ life. Investigators at our centre include Dr. Carmen Pérez and Dr. Ignacio Delgado. 
 
 ### Gaslini Institute, Genova, Italy
 G. Gaslini Institute is a paediatric hospital based in Genova and is a national reference in the diagnosis and treatment of epilepsy and other neurodevelopmental diseases. There is a dedicated programme of research into epilepsy genetics and clinical management of the patients, including a programme for surgery. 
@@ -66,7 +66,7 @@ Children’s Meyer Hospital Anna Meyer in Florence is a reference pediatric hosp
 The New York University Comprehensive Epilepsy Center is among the largest epilepsy treatment programs in the United States. Our research extends from fundamental epilepsy neurobiology to novel interventions for epilepsy treatment, and includes new drug development that includes cannabis-based and genetic therapies, development of imaging-based markers for epilepsy outcomes, the genetics of epilepsy, sudden unexplained death in epilepsy, treatments for neuroinflammation-induced epilepsy, tuberous sclerosis and epilepsy, autism and epilepsy, and many others.
 
 ### Bristol Royal Hospital for Children, UK
-The Bristol Royal Hospital for Children is part of the Children's Epilepsy Surgery Service (CESS). It is one of the four paediatric epilepsy surgery centres in the UK treating children from all over England. We work with Dr Marcus Likeman, a consultant neuroradiologist.
+Bristol Royal Hospital for Children is one of the four centres for the nationally commissioned Children’s Epilepsy Surgery Service (CESS) in England, providing surgical treatment for children with refractory partial epilepsy.  The BCH program is led by Dr Jay Patel and Mr Mike Carter. Dr Marcus Likeman is the lead neuroradiologist for epilepsy imaging at BCH and for the adult epilepsy surgery program at Southmead Hospital Bristol.
 
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
