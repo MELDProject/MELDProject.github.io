@@ -31,7 +31,7 @@ We are working with Dr Irene Wang’s imaging research group at the Cleveland Cl
 The National Hospital for Neurology and Neurosurgery has the largest adult epilepsy surgery programme in the UK. The Epilepsy Imaging Group of the UCL Institute of Neurology has a long history of developing imaging techniques to improve surgical treatment for patients with epilepsy. We are working with Dr Gavin Winston and Prof John Duncan.
 
 ### Greifswald Epilepsy Center, Germany
-The Greifswald Epilepsy Center is part of the Neurological Department at the University Medicine of Greifswald with a long tradition since 1974. Presurgical diagnostic work-up in epilepsy patients has been performed since 1994. More than 2000 patients (adults and children) per year with epilepsy are treated in its outpatient clinic. We work with Dr. Felix von Podewils and Dr. Bernadette Gaida.
+The Greifswald Epilepsy Center is part of the Neurological Department at the University Medicine of Greifswald with a long tradition since 1974. Presurgical diagnostic work-up in epilepsy patients has been performed since 1994. More than 2000 patients (adults and children) per year with epilepsy are treated in its outpatient clinic. We work with Dr. Felix von Podewils, Dr. Bernadette Gaida, Dr. Sönke Langner and Dr. Martin Domin.
 
 ### Hospital Del Mar, Spain
 We work with the neuroradiologist  Dr Sofia Gonzalez-Ortiz at the Hospital Del Mar in Barcelona, Spain. The mission of the Epilepsy Unit, of the Hospital del Mar,  lead by Dr. Rodrigo R. Rocamora, is to be a national reference in the diagnosis and treatment of epilepsy throughout all ages of patients’ life. Investigators at our centre include Dr. Carmen Pérez and Dr. Ignacio Delgado. 
