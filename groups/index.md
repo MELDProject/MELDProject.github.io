@@ -4,9 +4,9 @@ title: Who's involved in the MELD Project
 excerpt: "Members of the MELD Project"
 ---
 
-Sophie Adler and Konrad Wagstyl set up the MELD Project. 
+Sophie and Konrad Adler-Wagstyl set up the MELD Project. 
 
-Sophie is a MBPhD student from University College London who completed a PhD on cortical morphometry and MR signal intensity analysis in paediatric epilepsy. Konrad Wagstyl is a MBPhD student from the University of Cambridge who completed a PhD on deep learning and cortical structure. This project is supervised by Professor Torsten Baldeweg from the Great Ormond Street Institute of Child Health.
+Sophie is a MBPhD student from University College London who completed a PhD on cortical morphometry and MR signal intensity analysis in paediatric epilepsy. Konrad is a MBPhD student from the University of Cambridge who completed a PhD on deep learning and cortical structure. This project is supervised by Professor Torsten Baldeweg from the Great Ormond Street Institute of Child Health.
 
 Dr. Kirstie Whitaker from the Alan Turing Institute is our advisor on open, robust and generalisable science. 
 
