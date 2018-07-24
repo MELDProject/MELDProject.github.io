@@ -60,11 +60,14 @@ The epilepsy center of Beijing Tiantan Hospital is one of the leading epilepsy c
 ### Children’s Meyer Hospital Anna Meyer, Florence, Italy
 Children’s Meyer Hospital Anna Meyer in Florence is a reference pediatric hospital center in Italy. We work with Prof. Renzo Guerrini, head Director of the Neuroscience Department, whose research activities focus on neurophysiology, neuroimaging and neurogenetics of epilepsies, brain development and mental retardation. Prof. Guerrini’s group has made important contributions in characterizing the clinical phenotype and the genetic causes of various epilepsy or brain malformation syndromes and defining genotype-phenotype correlations.
 
-### The New York University Comprehensive Epilepsy Center
+### The New York University Comprehensive Epilepsy Center, USA
 The New York University Comprehensive Epilepsy Center is among the largest epilepsy treatment programs in the United States. Our research extends from fundamental epilepsy neurobiology to novel interventions for epilepsy treatment, and includes new drug development that includes cannabis-based and genetic therapies, development of imaging-based markers for epilepsy outcomes, the genetics of epilepsy, sudden unexplained death in epilepsy, treatments for neuroinflammation-induced epilepsy, tuberous sclerosis and epilepsy, autism and epilepsy, and many others.
 
 ### Bristol Royal Hospital for Children, UK
 Bristol Royal Hospital for Children is one of the four centres for the nationally commissioned Children’s Epilepsy Surgery Service (CESS) in England, providing surgical treatment for children with refractory partial epilepsy.  The BCH program is led by Dr Jay Patel and Mr Mike Carter. Dr Marcus Likeman is the lead neuroradiologist for epilepsy imaging at BCH and for the adult epilepsy surgery program at Southmead Hospital Bristol.
+
+### University Hospital of Wales and Cardiff University, UK
+The Epilepsy Unit at the University Hospital of Wales, Cardiff, UK under Dr Khalid Hamandi has worked closely with Cardiff University Brain Research Imaging Centre (CUBRIC) in developing a translational epilepsy research imaging programme using advanced MRI and MEG, this includes a service for the Wales epilepsy surgery programme, as well as ongoing brain imaging research in non-surgical epilepsies.
 
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
