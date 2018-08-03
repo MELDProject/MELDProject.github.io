@@ -69,6 +69,9 @@ Bristol Royal Hospital for Children is one of the four centres for the nationall
 ### University Hospital of Wales and Cardiff University, UK
 The Epilepsy Unit at the University Hospital of Wales, Cardiff, UK under Dr Khalid Hamandi has worked closely with Cardiff University Brain Research Imaging Centre (CUBRIC) in developing a translational epilepsy research imaging programme using advanced MRI and MEG, this includes a service for the Wales epilepsy surgery programme, as well as ongoing brain imaging research in non-surgical epilepsies.
 
+### Geneva University Hospital
+The EEG and Epilepsy Unit is specialized in the diagnosis and treatment of pharmacoresistant epilepsies. To achieve this goal we are currently dealing with cerebral imaging techniques to localise brain functions such as MRI, PET, SPECT, ESI, fMRI, electrocorticography. Because of a close collaboration with both universities (Geneva and Lausanne), the whole spectrum of modern diagnostic tools is available. Since beginning our work, more than 600 patients have been evaluated and most have also had operations; 40 to 45% of our patients were children and adolescents. 
+
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
 
