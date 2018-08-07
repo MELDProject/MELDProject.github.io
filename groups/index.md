@@ -72,6 +72,9 @@ The Epilepsy Unit at the University Hospital of Wales, Cardiff, UK under Dr Khal
 ### Geneva University Hospital
 The EEG and Epilepsy Unit is specialized in the diagnosis and treatment of pharmacoresistant epilepsies. To achieve this goal we are currently dealing with cerebral imaging techniques to localise brain functions such as MRI, PET, SPECT, ESI, fMRI, electrocorticography. Because of a close collaboration with both universities (Geneva and Lausanne), the whole spectrum of modern diagnostic tools is available. Since beginning our work, more than 600 patients have been evaluated and most have also had operations; 40 to 45% of our patients were children and adolescents. 
 
+### The Barrow Neurological Institute, USA
+The Barrow Neurological Institute at Phoenix Children's Hospital has a comprehensive and integrated neuroscience program spanning all “neuro” divisions and is affiliated with University of Arizona College of Medicine - Phoenix and Arizona State University. Our epilepsy center offers advanced technologies including 3T MRI, resting-state fMRI, SISCOM, sEEG and ECoG monitoring, laser ablation surgery, and responsive neurostimulation. Our research team includes neuroengineers, epileptologists, neuroradiologists, and neurosurgeon and is led by Stephen Foldes, PhD.
+
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
 
