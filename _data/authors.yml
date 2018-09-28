@@ -1,11 +1,18 @@
 # Authors
 
 sophie_adler:
-  name: Sophie Adler
+  name: Sophie Adler-Wagstyl
   email: sophie.adler.13@ucl.ac.uk
   bio: "MBPhD student at University College London, interested in epilepsy, brain development, open science and machine learning."
   avatar: SA_avatar.jpg
   twitter: sophieadler
+  
+konrad_wagstyl:
+  name: Konrad Adler-Wagstyl
+  email: konrad.wagstyl@gmail.com
+  bio: "MBPhD student at University of Cambridge, interested in epilepsy, brain development, open science and machine learning."
+  avatar: KW_avatar.jpg
+  twitter: KonradWagstyl
 
 meld:
   name: Sophie Adler and Konrad Wagstyl
