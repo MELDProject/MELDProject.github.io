@@ -16,32 +16,15 @@ author: MariaEriksson
 # The Second MELD Project Teleconference Meeting #
 
 
-Hello!:wave: I'm Maria Eriksson, a PhD student at Great Ormond Street Institute of Child Health, and this is my first blog post for the MELD Project. I've outlined the minutes for the second MELD Project Teleconference meeting below.
+Hello!:wave: Please find the minutes for the second MELD Project Teleconference meeting below.
 
-:small_orange_diamond: ## Minutes ## :small_orange_diamond:
+### Date ###
 
-**Date:** 26th September 2018, 8am and 5pm UK time
+26th September 2018, 8am and 5pm UK time
 
-### Present: ### 
+### Present: ###
 
-Sophie Adler-Wagstyl (SAW) - Great Ormond Street Institute of Child Health, UK
-Konrad Adler-Wagstyl (KAW) - University of Cambridge, UK
-Maria Eriksson - Great Ormond Street Institute of Child Health, UK
-Jose Pariente - IDIBAPS, Spain
-Z. Irene Wang (ZIW) - Cleveland Clinic, USA
-Stephen Foldes - Phoenix Children’s Hospital, USA
-Anna Willard - Royal Melbourne Hospital, Australia
-Sofia Gonzalez-Ortiz (SGO) et al. - Hospital Clinic of Barcelona, Spain
-Ben Sinclair - Monash University, Australia
-Jose Pariente - IDIBAPS, Spain
-Shirin Davies - CUBRIC, UK
-Mariasavina Severino (MS) et al. - Università di Genova, Italy
-Clarissa Yasuda (CY) - UNICAMP, Brazil
-Jia Jie Mo - Beijing Tiantan Hospital, China
-Kirstie Whitaker - University of Cambridge, UK
-Yawu Liu - University of Eastern Finland, Finland
-Magdalena Kowalczyk - The Florey Institute, Australia
-Marcus Likeman - University Hospitals Bristol, UK
+Sophie Adler-Wagstyl (SAW; Great Ormond Street Institute of Child Health, UK), Konrad Adler-Wagstyl (KAW; University of Cambridge, UK), Maria Eriksson (Great Ormond Street Institute of Child Health, UK), Z. Irene Wang (ZIW; Cleveland Clinic, USA), Stephen Foldes (Phoenix Children’s Hospital, USA), Anna Willard (Royal Melbourne Hospital, Australia), Sofia Gonzalez-Ortiz et al. (SGO; Hospital Clinic of Barcelona, Spain), Ben Sinclair (Monash University, Australia), Jose Pariente (IDIBAPS, Spain), Shirin Davies (CUBRIC, UK), Mariasavina Severino et al. (MS; Università di Genova, Italy), Clarissa Yasuda (CY; UNICAMP, Brazil), Jia Jie Mo (Beijing Tiantan Hospital, China), Kirstie Whitaker (University of Cambridge, UK), Yawu Liu (University of Eastern Finland, Finland), Magdalena Kowalczyk (The Florey Institute, Australia), Marcus Likeman (University Hospitals Bristol, UK)
 
 ### 1. Protocols and scripts ###
 
@@ -72,7 +55,7 @@ Marcus Likeman - University Hospitals Bristol, UK
         * FLAIR intensities sampled from the top of the cortex down to within the white matter
     * Lesion locations
 
-    :arrow_forward: The PDF document 1) confirms that the protocols have worked, 2) indicates if the classifier is able to detect lesions, 3) enables site to explore their data locally 
+        :arrow_forward: The PDF document 1) confirms that the protocols have worked, 2) indicates if the classifier is able to detect lesions, 3) enables site to explore their data locally 
 
 * Sites enquired whether cortical thickness is defined by FreeSurfer segmentation or by masking (as FreeSurfer segmentation is problematic in areas of dysplasia)?
     * KAW: Cortical thickness is defined by FreeSurfer segmentation. However, this is fine as the algorithm detects abnormality, i.e., abnormally thick or abnormally thin cortex
@@ -96,7 +79,7 @@ Marcus Likeman - University Hospitals Bristol, UK
         * Detecting polymicrogyria on MRI scans is rarely difficult
         * The classifier would not differentiate between epileptogenic and non- epileptogenic polymicrogyria
 
-    :arrow_forward: The criteria will not be extended
+        :arrow_forward: The criteria will not be extended
 
 * Sites enquired about the size of the sites’ cohorts
     * SAW explained that cohort size did not restrict inclusion to the MELD project. Therefore, cohorts vary in size from 5 patients to 100s of patients
@@ -108,9 +91,9 @@ Marcus Likeman - University Hospitals Bristol, UK
     * SAW confirmed that in the dataset of 130 patients, there are no Type I FCD patients
     * SAW explained that including Type III FCD patients would require adaptions to the current MELD scripts
 
-    :arrow_forward: SAW encouraged sites to include Type I FCD patients even if the lesion mask is imperfect or sites are unable to perform the lesion mask
+        :arrow_forward: SAW encouraged sites to include Type I FCD patients even if the lesion mask is imperfect or sites are unable to perform the lesion mask
 
-    :arrow_forward: SAW encouraged sites to focus on Type I and Type IIa and IIb FCD patients and to contact SAW if they would like to include Type III FCD patients
+        :arrow_forward: SAW encouraged sites to focus on Type I and Type IIa and IIb FCD patients and to contact SAW if they would like to include Type III FCD patients
 
 * Some sites confirmed that they have added data about genetics to their database
 
@@ -119,7 +102,8 @@ Marcus Likeman - University Hospitals Bristol, UK
 * The next teleconference will take place in 2 months’ time and will be scheduled for the same two time points (i.e., 8am and 5pm UK time)
 
 
-***Looking forward to the next meeting!***
+
+                                                ***Looking forward to the next meeting!***
 
 
 
