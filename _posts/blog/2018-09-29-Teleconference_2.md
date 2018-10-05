@@ -60,7 +60,6 @@ The PDF document 1) confirms that the protocols have worked, 2) indicates if the
 * Sites enquired whether cortical thickness is defined by FreeSurfer segmentation or by masking (as FreeSurfer segmentation is problematic in areas of dysplasia)?
     * KAW: Cortical thickness is defined by FreeSurfer segmentation. However, this is fine as the algorithm detects abnormality, i.e., abnormally thick or abnormally thin cortex
     * SAW: In the more ‘obvious’ cases of dysplasia, FreeSurfer often underestimates cortical thickness
-
 * KAW asked if sites have any questions about the PDF document or if sites would like anything added to the document
     * Sites confirmed that they are happy with the PDF document
 
