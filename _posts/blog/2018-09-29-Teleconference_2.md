@@ -87,8 +87,10 @@ The PDF document 1) confirms that the protocols have worked, 2) indicates if the
 * Sites enquired about Type I, Type IIa and IIb, and Type III FCD patients
     * SAW confirmed that in the dataset of 130 patients, there are no Type I FCD patients
     * SAW explained that including Type III FCD patients would require adaptions to the current MELD scripts
-    :arrow_forward: SAW encouraged sites to include Type I FCD patients even if the lesion mask is imperfect or sites are unable to perform the lesion mask
-    :arrow_forward: SAW encouraged sites to focus on Type I and Type IIa and IIb FCD patients and to contact SAW if they would like to include Type III FCD patients
+
+:arrow_forward: SAW encouraged sites to include Type I FCD patients even if the lesion mask is imperfect or sites are unable to perform the lesion mask
+:arrow_forward: SAW encouraged sites to focus on Type I and Type IIa and IIb FCD patients and to contact SAW if they would like to include Type III FCD patients
+
 * Some sites confirmed that they have added data about genetics to their database
 
 
