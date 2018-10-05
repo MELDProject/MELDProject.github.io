@@ -75,20 +75,19 @@ The PDF document 1) confirms that the protocols have worked, 2) indicates if the
 * SAW opened the discussion to ‘Should the inclusion criteria be widened to include other focal epilepsy pathologies, such as heterotopia and polymicrogyria?
     * Heterotopia will not be included as FreeSurfer is unable to detect deep subcortical abnormalities
     * The classifier would be able to detect polymicrogyria; however, this is outside the scope of the MELD project because...
-Detecting polymicrogyria on MRI scans is rarely difficult
-The classifier would not differentiate between epileptogenic and non-epileptogenic polymicrogyria
-:arrow_forward: The criteria will not be extended
-Sites enquired about the size of the sites’ cohorts
-SAW explained that cohort size did not restrict inclusion to the MELD project. Therefore, cohorts vary in size from 5 patients to 100s of patients
-Sites enquired about control inclusion criteria
-SAW explained that individuals with non-epileptic lesions can be included as controls, but this should be included in the control’s demographic data
-Sites enquired about Type I, Type IIa and IIb, and Type III FCD patients
-SAW confirmed that in the dataset of 130 patients, there are no Type I FCD patients
-SAW explained that including Type III FCD patients would require adaptions to the current MELD scripts
-:arrow_forward: SAW encouraged sites to include Type I FCD patients even if the lesion mask is imperfect or sites are unable to perform the lesion mask
-:arrow_forward: SAW encouraged sites to focus on Type I and Type IIa and IIb FCD patients and to contact SAW if they would like to include Type III FCD patients
-Some sites confirmed that they have added data about genetics to their database
-
+        * Detecting polymicrogyria on MRI scans is rarely difficult
+        * The classifier would not differentiate between epileptogenic and non-epileptogenic polymicrogyria
+    :arrow_forward: The criteria will not be extended
+* Sites enquired about the size of the sites’ cohorts
+    * SAW explained that cohort size did not restrict inclusion to the MELD project. Therefore, cohorts vary in size from 5 patients to 100s of patients
+* Sites enquired about control inclusion criteria
+    * SAW explained that individuals with non-epileptic lesions can be included as controls, but this should be included in the control’s demographic data
+* Sites enquired about Type I, Type IIa and IIb, and Type III FCD patients
+    * SAW confirmed that in the dataset of 130 patients, there are no Type I FCD patients
+    * SAW explained that including Type III FCD patients would require adaptions to the current MELD scripts
+    :arrow_forward: SAW encouraged sites to include Type I FCD patients even if the lesion mask is imperfect or sites are unable to perform the lesion mask
+    :arrow_forward: SAW encouraged sites to focus on Type I and Type IIa and IIb FCD patients and to contact SAW if they would like to include Type III FCD patients
+* Some sites confirmed that they have added data about genetics to their database
 
 #### 6. Going forward ####
 
