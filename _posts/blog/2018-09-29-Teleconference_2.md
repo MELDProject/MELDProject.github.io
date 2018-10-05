@@ -83,12 +83,13 @@ The PDF document 1) confirms that the protocols have worked, 2) indicates if the
 * Sites enquired about the size of the sites’ cohorts
     * SAW explained that cohort size did not restrict inclusion to the MELD project. Therefore, cohorts vary in size from 5 patients to 100s of patients
 * Sites enquired about control inclusion criteria
-    * SAW explained that individuals with non-epileptic lesions can be included as controls, but this should be included in the control’s demographic data
+    * SAW explained that individuals with psychogenic non-epileptic seizures (PNES) can be included as controls, but this should be included in the control’s demographic data
 * Sites enquired about Type I, Type IIa and IIb, and Type III FCD patients
     * SAW confirmed that in the dataset of 130 patients, there are no Type I FCD patients
     * SAW explained that including Type III FCD patients would require adaptions to the current MELD scripts
 
 :arrow_forward: SAW encouraged sites to include Type I FCD patients even if the lesion mask is imperfect or sites are unable to perform the lesion mask
+
 :arrow_forward: SAW encouraged sites to focus on Type I and Type IIa and IIb FCD patients and to contact SAW if they would like to include Type III FCD patients
 
 * Some sites confirmed that they have added data about genetics to their database
