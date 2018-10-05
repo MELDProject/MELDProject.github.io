@@ -77,7 +77,9 @@ The PDF document 1) confirms that the protocols have worked, 2) indicates if the
     * The classifier would be able to detect polymicrogyria; however, this is outside the scope of the MELD project because...
         * Detecting polymicrogyria on MRI scans is rarely difficult
         * The classifier would not differentiate between epileptogenic and non-epileptogenic polymicrogyria
-    :arrow_forward: The criteria will not be extended
+    
+:arrow_forward: The criteria will not be extended
+
 * Sites enquired about the size of the sites’ cohorts
     * SAW explained that cohort size did not restrict inclusion to the MELD project. Therefore, cohorts vary in size from 5 patients to 100s of patients
 * Sites enquired about control inclusion criteria
