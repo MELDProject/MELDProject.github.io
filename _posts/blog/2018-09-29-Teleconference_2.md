@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teleconference 2"
+title: "The Second MELD Project Teleconference Meeting"
 categories: blog
 excerpt: Teleconference 2 - minutes
 tags: []
@@ -13,32 +13,114 @@ share: true
 author: MariaEriksson
 ---
 
-# Teleconference 2 - minutes
+# The Second MELD Project Teleconference Meeting #
 
-This is my first blog post about the MELD project - a multi-centre epilepsy lesion detection project. Our aim is to develop tools for the automated detection of malformations of cortical development such as focal cortical dysplasias (FCDs).
 
-At the beginning of 2017, we published a single-centre study on [automated lesion detection in children](http://www.sciencedirect.com/science/article/pii/S2213158216302674?via%3Dihub). This was based on cohort of patients between age 4 and 18 studied at Great Ormond Street Hospital, UK. 
+Hello!:wave: I'm Maria Eriksson, a PhD student at Great Ormond Street Institute of Child Health, and this is my first blog post for the MELD Project. I've outlined the minutes for the second MELD Project Teleconference meeting below.
 
-We trained a neural network on 28 surface-based features such as cortical thickness, curvature, sulcal depth, FLAIR signal intensity etc. etc. Each vertex was given a response value (1 if lesional, 0 if healthy cortex). 
+:small_orange_diamond: ## Minutes ## :small_orange_diamond:
 
-*The trained neural network was able to detect 73% of lesions! :raised_hands:*
+**Date:** 26th September 2018, 8am and 5pm UK time
 
-Here are some examples of the lesions it was able to detect:
+### Present: ### 
 
-<figure>
-<img src="/images/Example_classifier_results.png"
-alt="FCD examples">
-<figcaption>  Examples of cortical area detected by the neural network classifier in 5 patients with a radiological diagnosis of FCD. First column: T1-weighted images. Second column: FLAIR images. White circle on T1 and FLAIR images indicates lesion location. Third column: Neural network classifier output (yellow) and manual lesion mask (light blue) viewed on pial surface, for large lesions, or inflated surface, for small lesions buried in sulci.</figcaption>
-</figure>
+Sophie Adler-Wagstyl (SAW) - Great Ormond Street Institute of Child Health, UK
+Konrad Adler-Wagstyl (KAW) - University of Cambridge, UK
+Maria Eriksson - Great Ormond Street Institute of Child Health, UK
+Jose Pariente - IDIBAPS, Spain
+Z. Irene Wang (ZIW) - Cleveland Clinic, USA
+Stephen Foldes - Phoenix Children’s Hospital, USA
+Anna Willard - Royal Melbourne Hospital, Australia
+Sofia Gonzalez-Ortiz (SGO) et al. - Hospital Clinic of Barcelona, Spain
+Ben Sinclair - Monash University, Australia
+Jose Pariente - IDIBAPS, Spain
+Shirin Davies - CUBRIC, UK
+Mariasavina Severino (MS) et al. - Università di Genova, Italy
+Clarissa Yasuda (CY) - UNICAMP, Brazil
+Jia Jie Mo - Beijing Tiantan Hospital, China
+Kirstie Whitaker - University of Cambridge, UK
+Yawu Liu - University of Eastern Finland, Finland
+Magdalena Kowalczyk - The Florey Institute, Australia
+Marcus Likeman - University Hospitals Bristol, UK
 
-As you can see these included small and large lesions, and lesions located in different cortical lobes. We published all the [code](https://github.com/kwagstyl/FCDdetection/) used for this study so that other centres would be able to use the FCD detection methodology on their patients and help us to develop and improve this work. 
+### 1. Protocols and scripts ###
 
-However, the more training data a neural network has, the better it will perform. Also, including data from different sites and different MRI scanners will ensure that our trained classifier is generalisable. So, the aim of this collaboration is to bring together groups who are interested in using AI to assist lesion detection in the pre-surgical evaluation of patients with drug-resistant epilepsy. 
+* SAW thanked sites that have finished the protocols 
+* SAW outlined progress and timeline
+    * Currently have data from 130 patients and 150 controls
+    * End of October 2018: SAW and KAW to receive all remaining data from sites
+        * Sites provided updates: SGO, MS and CY confirmed that they are on track to finish by the end of October deadline
+        * Sites should let SAW know via email if they are unable to complete the protocols by the end of October 2018
+    * January 2019: SAW and KAW to present preliminary findings
+        * Full cohort analysis will start
 
-We aim to:
-* continue to develop AI capabilities to detect FCDs
-* train classifiers on data from multiple centres (including paediatric and adult data)
-* create clinically useful tools that can be used in the pre-surgical evaluation of patients with drug-resistant epilepsy to aid radiological diagnosis
+### 2. Potential new sites ###
 
-Thanks for taking a look and feel free to contact us if you would like to find out more!
+* Four new sites have enquired about joining the MELD Project
+    * SAW proposed allowing new sites to join, as additional data will continue to improve the classifier, but with the caveat that their data may not be included in the initial MELD publications
+        * Sites confirmed that they were happy with this solution
+    * SAW confirmed that the identity of the new sites will be visible on the website once they have officially joined the project
+
+### 3. Site-level lesion characteristics PDF ###
+
+* KAW described that sites will receive a PDF document containing a summary of their cohort
+    * Demographic data for patient and control groups
+    * Lesion characteristics
+        * Cortical thickness
+        * ‘Blurring’
+        * Intrinsic curvature
+        * FLAIR intensities sampled from the top of the cortex down to within the white matter
+    * Lesion locations
+
+    :arrow_forward: The PDF document 1) confirms that the protocols have worked, 2) indicates if the classifier is able to detect lesions, 3) enables site to explore their data locally 
+
+* Sites enquired whether cortical thickness is defined by FreeSurfer segmentation or by masking (as FreeSurfer segmentation is problematic in areas of dysplasia)?
+    * KAW: Cortical thickness is defined by FreeSurfer segmentation. However, this is fine as the algorithm detects abnormality, i.e., abnormally thick or abnormally thin cortex
+    * SAW: In the more ‘obvious’ cases of dysplasia, FreeSurfer often underestimates cortical thickness
+
+* KAW asked if sites have any questions about the PDF document or if sites would like anything added to the document
+    * Sites confirmed that they are happy with the PDF document
+
+### 4. AES 2018 Annual Meeting ###
+
+* SAW thanked sites for completing the survey regarding AES attendance
+* SAW confirmed that there will be an in-person meet-up at AES
+    * Details about the meet-up will be sent out soon
+* SAW confirmed that there will be a 14-min long MELD presentation on Monday 3rd December at 3:30pm
+
+### 5. Open forum ###
+
+* SAW opened the discussion to ‘Should the inclusion criteria be widened to include other focal epilepsy pathologies, such as heterotopia and polymicrogyria?’
+    * Heterotopia will not be included as FreeSurfer is unable to detect deep subcortical abnormalities
+    * The classifier would be able to detect polymicrogyria; however, this is outside the scope of the MELD project because…
+        * Detecting polymicrogyria on MRI scans is rarely difficult
+        * The classifier would not differentiate between epileptogenic and non- epileptogenic polymicrogyria
+
+    :arrow_forward: The criteria will not be extended
+
+* Sites enquired about the size of the sites’ cohorts
+    * SAW explained that cohort size did not restrict inclusion to the MELD project. Therefore, cohorts vary in size from 5 patients to 100s of patients
+
+* Sites enquired about control inclusion criteria
+    * SAW explained that individuals with non-epileptic lesions can be included as controls, but this should be included in the control’s demographic data
+
+* Sites enquired about Type I, Type IIa and IIb, and Type III FCD patients
+    * SAW confirmed that in the dataset of 130 patients, there are no Type I FCD patients
+    * SAW explained that including Type III FCD patients would require adaptions to the current MELD scripts
+
+    :arrow_forward: SAW encouraged sites to include Type I FCD patients even if the lesion mask is imperfect or sites are unable to perform the lesion mask
+
+    :arrow_forward: SAW encouraged sites to focus on Type I and Type IIa and IIb FCD patients and to contact SAW if they would like to include Type III FCD patients
+
+* Some sites confirmed that they have added data about genetics to their database
+
+### 6. Going forward ###
+
+* The next teleconference will take place in 2 months’ time and will be scheduled for the same two time points (i.e., 8am and 5pm UK time)
+
+
+***Looking forward to the next meeting!***
+
+
+
 
