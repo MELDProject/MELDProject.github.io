@@ -2,7 +2,7 @@
 layout: post
 title: "The Second MELD Project Teleconference Meeting"
 categories: blog
-excerpt: Teleconference 2 - minutes
+excerpt: Minutes
 tags: []
 image:
   feature:
@@ -72,7 +72,7 @@ The PDF document 1) confirms that the protocols have worked, 2) indicates if the
 
 #### 5. Open forum ####
 
-* SAW opened the discussion to ‘Should the inclusion criteria be widened to include other focal epilepsy pathologies, such as heterotopia and polymicrogyria?
+* SAW opened the discussion to ‘Should the inclusion criteria be widened to include other focal epilepsy pathologies, such as heterotopia and polymicrogyria'?
     * Heterotopia will not be included as FreeSurfer is unable to detect deep subcortical abnormalities
     * The classifier would be able to detect polymicrogyria; however, this is outside the scope of the MELD project because...
         * Detecting polymicrogyria on MRI scans is rarely difficult
