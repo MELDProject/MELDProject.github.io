@@ -57,11 +57,11 @@ alt="Timeline of MELD Project">
 </figure>
 
 
-    * Overview of the proposed primary analyses:    
+* Overview of the proposed primary analyses:    
         * Lesion characterisation of total cohort
         * Lesion detection using a multilayer perceptron 
         * Analysis of lesion topography and relation to genetics / cytoarchitecture 
-    * Other analyses / work:
+* Other analyses / work:
         * Classifier development - network saliency and graph attention architectures
 
 #### Discussion ####
