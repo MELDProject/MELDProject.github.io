@@ -24,7 +24,7 @@ Hello! :wave: It was an absolute pleasure to be able to meet collaborators repre
 
 #### Present: ####
 
-Sophie Adler-Wagstyl (SAW; Great Ormond Street Institute of Child Health, UK), Konrad Adler-Wagstyl (KAW; University of Cambridge, UK), Z. Irene Wang (ZIW; Cleveland Clinic, USA), Estefania Conde Blanco (ECB; Hospital Clinic of Barcelona, Spain),  Fernando Cendes (FC; UNICAMP, Brazil), Kai Zhang (KZ; Beijing Tiantan Hospital, China), Reeta Kalviainen (RK; University of Eastern Finland, Finland), Jonathan O'Muircheartaigh (JOM; Kings College London, UK), John Duncan (JD; University College London, UK), Gavin Winston (GW; University College London, UK), Heath Pardoe (HP; New York University, USA), 
+Sophie Adler-Wagstyl (SAW; Great Ormond Street Institute of Child Health, UK), Konrad Adler-Wagstyl (KAW; University of Cambridge, UK), Z. Irene Wang (ZIW; Cleveland Clinic, USA), Ying Ying Tang (Cleveland Clinic, USA), Estefania Conde Blanco (ECB; Hospital Clinic of Barcelona, Spain),  Fernando Cendes (FC; UNICAMP, Brazil), Xiu Wang (Beijing Tiantan Hospital, China), Kai Zhang (KZ; Beijing Tiantan Hospital, China), Reeta Kalviainen (RK; University of Eastern Finland, Finland), Jonathan O'Muircheartaigh (JOM; Kings College London, UK), John Duncan (JD; University College London, UK), Gavin Winston (GW; University College London, UK), Heath Pardoe (HP; New York University, USA).
 
 
 <figure>
