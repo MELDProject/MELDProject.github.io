@@ -38,12 +38,12 @@ alt="AES Meeting">
 The meeting began with introductions by all attendees and a short presentation covering:
 * Introduction to the challenge of identifying FCDs on MRI
 * Overview of the approach we are using to automatically identify FCDs - this included explaining the steps involved in the protocols:
-        * Freesurfer reconstructions
-        * Calculation of a variety of surface-based features including cortical thickness, grey-white matter intensity contract, sulcal depth, curvature, intrinsic curvature, FLAIR (at a number of different cortical and subcortical depths)
-        * Registration to a template space 
-        * Normalisation procedures
-        * Lesion mapping
-        * Generation of the matrix of anonymised features (stored as hdf5 files) - this is what is shared! 
+    * Freesurfer reconstructions
+    * Calculation of a variety of surface-based features including cortical thickness, grey-white matter intensity contract, sulcal depth, curvature, intrinsic curvature, FLAIR (at a number of different cortical and subcortical depths)
+    * Registration to a template space 
+    * Normalisation procedures
+    * Lesion mapping
+    * Generation of the matrix of anonymised features (stored as hdf5 files) - this is what is shared! 
 * Results from the initial work done at Great Ormond Street Hospital on a paediatric cohort
 * Results from replication studies done at the Cleveland Clinic and the National Hospital for Neurology and Neurosurgery
 * Demonstration of the importance of sample size for classifier performance and motivation behind establishing the MELD Project
@@ -78,7 +78,7 @@ Throughout the presentation and after there was a lively discussion. Here is an 
 :arrow_forward: This led to a discussion on class imbalance - balancing quantities on lesional and non-lesional training examples.
 * There are different approaches to dealing with class-imbalance including: increasing the weighting of lesional data so that the classifier learns more from these examples, oversampling the lesional data or undersampling the non-lesional data
 
-:arrow_forward: JD: Will this be abnormality detector or descriptive of subtype?
+:arrow_forward: JD: Will this be an abnormality detector or descriptive of subtype?
 * There is the ability to do both with this unique dataset. We will be able to train classifiers to detect lesions (regardless of FCD histopathological subtype) and to train classifiers to subtype into histopathological subtypes. 
 * It is important to note that most of our data is FCD type IIa and IIb
 
@@ -97,9 +97,9 @@ Throughout the presentation and after there was a lively discussion. Here is an 
 * Discussion about how current protocols normalise by site's controls in sites that have controls and by a template control created by us in those that do not have controls. However, we will also have a large normative dataset created by the MELD Project which will allow us to create age specific templates. 
 
 :arrow_forward: ZIW: Do we have access to our data? What about other sites data?
-* Yes all your sites data is in the hdf5 files and we can provide scripts helping you manipulate this file format so that centres can explore there own data. 
-* In terms of other sites data, the MOU details how to apply for the total dataset. A site in the MELD consortium or external can write a project proposal and all sites have a period of time to object to their data being shared. If there are no objections, then the total dataset is shared.
-* Discussion around challenges of releasing total anonymised dataset and agreement to have discussions about this possibility in the future.
+* Yes all your site's data is in the hdf5 files and we can provide scripts helping you manipulate this file format so that centres can explore there own data. 
+* In terms of other sites' data, the MOU details how to apply for the total dataset. A site in the MELD consortium or external can write a project proposal and all sites have a period of time to object to their data being shared. If there are no objections, then the total dataset is shared.
+* Discussion around challenges of releasing the total anonymised dataset and agreement to have discussions about this possibility in the future.
 
 :arrow_forward: Discussion around topography of lesions (the current lesion locations of the first 250 patients).
 
