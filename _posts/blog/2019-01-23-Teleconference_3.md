@@ -81,6 +81,7 @@ Sophie Adler-Wagstyl (SAW; Great Ormond Street Institute of Child Health, UK), K
 * Suggested analyses: 
     * Is topographic pattern consistent across all patients/histologies?
     * Is there a difference in outcomes between those operated as children vs adults?
+
 :arrow_forward: These analysis will be carried out.
 
 * The pattern of FLAIR features is inconsistent across the 6 depths.
@@ -96,7 +97,7 @@ Sophie Adler-Wagstyl (SAW; Great Ormond Street Institute of Child Health, UK), K
 
 
 
-***Looking forward to the next meeting!*** :rocket:
+***Looking forward to the next meeting!*** :sunny:
 
 
 
