@@ -75,6 +75,9 @@ The EEG and Epilepsy Unit is specialized in the diagnosis and treatment of pharm
 ### The Barrow Neurological Institute, USA
 The Barrow Neurological Institute at Phoenix Children's Hospital has a comprehensive and integrated neuroscience program spanning all “neuro” divisions and is affiliated with University of Arizona College of Medicine - Phoenix and Arizona State University. Our epilepsy center offers advanced technologies including 3T MRI, resting-state fMRI, SISCOM, sEEG and ECoG monitoring, laser ablation surgery, and responsive neurostimulation. Our research team includes neuroengineers, epileptologists, neuroradiologists, and neurosurgeon and is led by Stephen Foldes, PhD.
 
+### Neurobiology Research Unit, Rigshospitalet, Copenhagen University Hospital, Denmark
+Neurobiology Research Unit (NRU) is located at Rigshospitalet, Copenhagen University Hospital, Denmark. The mission of NRU is to conduct translational neuroscience research on brain neurotransmission at an internationally competitive level with the aim to promote preventive, diagnostic and therapeutic advances. In the field of epilepsy, this includes several research initiatives using functional and structural imaging techniques, including investigation of the added value of 7T MRI. Danish epilepsy surgery is centralized at Rigshospitalet, and around 100 patients are evaluated here and at the Epilepsy Hospital Filadelfia annually. Epilepsy research at NRU is supervised by associate prof. Lars H. Pinborg.
+
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
 
