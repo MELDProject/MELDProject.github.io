@@ -4,7 +4,7 @@ title: Who's involved in the MELD Project
 excerpt: "Members of the MELD Project"
 ---
 
-Sophie and Konrad Adler-Wagstyl lead the MELD Project. 
+Dr Sophie Adler-Wagstyl and Dr Konrad Adler-Wagstyl lead the MELD Project. 
 
 Sophie is an Academic Clinical doctor who completed a PhD on cortical morphometry and MR signal intensity analysis in paediatric epilepsy. 
 
