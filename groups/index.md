@@ -82,6 +82,10 @@ The Barrow Neurological Institute at Phoenix Children's Hospital has a comprehen
 ### Neurobiology Research Unit, Rigshospitalet, Copenhagen University Hospital, Denmark
 Neurobiology Research Unit (NRU) is located at Rigshospitalet, Copenhagen University Hospital, Denmark. The mission of NRU is to conduct translational neuroscience research on brain neurotransmission at an internationally competitive level with the aim to promote preventive, diagnostic and therapeutic advances. In the field of epilepsy, this includes several research initiatives using functional and structural imaging techniques, including investigation of the added value of 7T MRI. Danish epilepsy surgery is centralized at Rigshospitalet, and around 100 patients are evaluated here and at the Epilepsy Hospital Filadelfia annually. Epilepsy research at NRU is supervised by associate prof. Lars H. Pinborg.
 
+### Children's National, Washington USA
+The Children's National Comprehensive Pediatric Epilepsy Program, directed by Professor William Gaillard is one of the leading multidisciplinary pediatric epilepsy programs in the USA. Their research uses advanced structural and functional imaging to examine the effects of epilepsy on brain structure and function. Their ultimate goal is to improve the outcomes and lives of children with epilepsy.
+
+
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
 
