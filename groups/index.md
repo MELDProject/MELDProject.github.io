@@ -85,6 +85,8 @@ Neurobiology Research Unit (NRU) is located at Rigshospitalet, Copenhagen Univer
 ### Children's National, Washington USA
 The Children's National Comprehensive Pediatric Epilepsy Program, directed by Professor William Gaillard is one of the leading multidisciplinary pediatric epilepsy programs in the USA. Their research uses advanced structural and functional imaging to examine the effects of epilepsy on brain structure and function. Their ultimate goal is to improve the outcomes and lives of children with epilepsy.
 
+### Bambino Gesù Children's Hospital, Rome, Italy
+The Bambino Gesù Children's Hospital in Rome is one of the centers commissioned for epilepsy surgery in Italy and a referral center for pediatric epilepsy treatment and diagnosis. The diagnostic work-up encompasses EEG, SEEG, 3T MRI with dedicated protocols including DTI, fMRI resting state fMRI and advanced  post-processing techniques for surgical planning. Since the beginning of our practice in 2010 more than 250 epilepsy cases, mainly paediatric, have been operated and more than 50 underwent SEEG.
 
 ***If you are interested in getting involved in this collaboration please do not hesitate to [contact us](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
