@@ -14,7 +14,7 @@ Dr. Kirstie Whitaker from the Alan Turing Institute is our advisor on open, robu
 
 This project is co-supervised by Professor Torsten Baldeweg from the Great Ormond Street Institute of Child Health.
 
-A number of centres world-wide are using the automated FCD detection [code](https://github.com/kwagstyl/FCDdetection) that is freely available to download. We are also collaborating with interested groups to build robust and generalisable tools. Please click [here] (https://meldproject.github.io//docs/collaborator_list.pdf) for a list of current collaborators.
+A number of centres world-wide are using the automated FCD detection [code](https://github.com/kwagstyl/FCDdetection) that is freely available to download. We are also collaborating with interested groups to build robust and generalisable tools. Please click [here](https://meldproject.github.io//docs/collaborator_list.pdf) for a list of current collaborators.
 
 ### Groups involved in the multi-centre collaboration
 
