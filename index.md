@@ -5,32 +5,19 @@ excerpt: "MELD project home page."
 search_omit: true
 ---
 
-The Multi-centre Epilepsy Lesion Detection (MELD) project is an international collaboration dedicated to improving the detection of lesions in patients with drug-resistant epilepsy.
+The Multi-centre Epilepsy Lesion Detection (MELD) project is an international collaboration dedicated to improving the detection of lesions in patients with drug-resistant epilepsy. 
 
-We hope you find this site a useful source of information about the MELD project.
+To date, the MELD project has three ongoing themes:
+* The automated detection of lesion in patient with drug-resistant epilepsy
+* A better understanding of Focal Cortical Dysplasia (FCD)
+* The morphological characterisation of FCD lesions 
 
-### Automated Detection of Focal Cortical Dysplasias
+For more details on these themes and the publications associated visit the "Studies" section. 
 
-Focal cortical dysplasia (FCD) is a congenital abnormality of cortical development and a leading cause of surgically remediable drug resistant epilepsy. MRI has played a major role in the evaluation of patients; yet, significant proportions of lesions remain undetected by conventional image analysis. Machine learning offers a powerful framework to develop automated and individualised clinical tools that may improve the detection of lesions and prediction of clinically relevant outcome. 
+To get involve and join our exhaustive list of MELD collaborators visit the "Who's involve" section.
 
-In work [published in Neuroimage: Clinical](http://www.sciencedirect.com/science/article/pii/S2213158216302674?via%3Dihub) in 2017, Adler, Wagstyl et al., developed a classifier using surface-based features to identify focal abnormalities of cortical development in a paediatric cohort. Focal cortical dysplasias in this paediatric cohort were correctly identified in 73% of the children.
+Follow the MELD project on Tweeter to find about our lastest news :  publication, next conference's talks and posters, etc. 
 
-<figure>
-<img src="/images/Example_classifier_results.png"
-alt="FCD examples" width="400" height="500" text-align: center>
-<figcaption>  Examples of cortical area detected by the neural network classifier in 5 patients with a radiological diagnosis of FCD. First column: T1-weighted images. Second column: FLAIR images. White circle on T1 and FLAIR images indicates lesion location. Third column: Neural network classifier output (yellow) and manual lesion mask (light blue) viewed on pial surface, for large lesions, or inflated surface, for small lesions buried in sulci.</figcaption>
-</figure>
-
-Since this publication, a number of groups world-wide have downloaded the freely available [code](https://github.com/kwagstyl/FCDdetection/) so that they can replicate this work at their own site, on their own scanner and patients. However, to date, surface-based automated lesion detection studies have been single-centre and it is unclear how generalisable the developed frameworks and tools are. Furthermore, machine learning continues to improve with increasing numbers of examples. 
-
-***The MELD Project is an international collaboration aiming to develop lesion detection and normalisation techniques for the incorporation of data and sequences from multiple sites.   One of the major focuses of the project is to create open-access, robust and generalisable tools for FCD detection.***
-
-We aim to:
-* continue to develop AI capabilities to detect FCDs
-* train classifiers on data from multiple centres (including paediatric and adult data)
-* create clinically useful tools that can be used in the pre-surgical evaluation of patients with drug-resistant epilepsy to aid radiological diagnosis
-
-Thanks for taking a look and feel free to contact us if you would like to find out more!
 
 ### Contact
 
