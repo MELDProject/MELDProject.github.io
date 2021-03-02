@@ -20,19 +20,11 @@ alt="FCD examples">
 </figure>
 
 Further studies have validated since validated this method:
-
-[Jin et al., 2018, Epilepsia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5934310/)
-
-[Mo et al., 2018, Frontiers in Neuroscience](https://www.frontiersin.org/articles/10.3389/fnins.2018.01008/full)
-
-[Wagstyl, Adler et al., Epilepsia](https://onlinelibrary.wiley.com/doi/full/10.1111/epi.16574)
+[Jin et al., 2018, in Epilepsia,](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5934310/)
+[Mo et al., 2018, Frontiers in Neuroscience,](https://www.frontiersin.org/articles/10.3389/fnins.2018.01008/full)
+and [Wagstyl, Adler et al., Epilepsia](https://onlinelibrary.wiley.com/doi/full/10.1111/epi.16574)
 
 
 
 
 
-<ul class="post-list">
-{% for post in site.categories.resources %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
