@@ -7,7 +7,7 @@ excerpt: "Members of the MELD Project"
 
 ### Groups involved in the multi-centre collaboration
 
-We are delighted that groups from around the world have joined our multi-centre collaboration.
+We are delighted that our multi-centre collaboration involves groups from around the world.
 
 Please [click here](https://meldproject.github.io//docs/collaborator_list.pdf) for a list of current collaborators.
 
