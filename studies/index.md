@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Studies
+title: Publications
 excerpt: "On-going Projects"
 search_omit: true
 ---
