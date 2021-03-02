@@ -20,7 +20,14 @@ alt="FCD examples">
 </figure>
 
 Further studies have validated since validated this method:
-[Jin et al., 2019, Epilepsia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5934310/)
+
+[Jin et al., 2018, Epilepsia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5934310/)
+
+[Mo et al., 2018, Frontiers in Neuroscience](https://www.frontiersin.org/articles/10.3389/fnins.2018.01008/full)
+
+[Wagstyl, Adler et al., Epilepsia](https://onlinelibrary.wiley.com/doi/full/10.1111/epi.16574)
+
+
 
 
 
