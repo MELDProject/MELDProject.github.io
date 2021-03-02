@@ -6,3 +6,4 @@ gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
 gem "html-proofer"
+gem 'jekyll-twitter-plugin'

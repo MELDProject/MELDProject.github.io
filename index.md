@@ -18,6 +18,10 @@ To get involve and join our exhaustive list of MELD collaborators visit the "Who
 
 Follow the MELD project on Tweeter to find about our lastest news :  publication, next conference's talks and posters, etc. 
 
+### tweet news 
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/mathrip3 maxwidth=500 limit=5 %}
+</div>
 
 ### Contact
 
