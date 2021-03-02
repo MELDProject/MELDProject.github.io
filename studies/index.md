@@ -9,10 +9,7 @@ search_omit: true
 
 ### Automated Detection of Focal Cortical Dysplasias
 
-Focal cortical dysplasia (FCD) is a congenital abnormality of cortical development and a leading cause of surgically remediable drug resistant ep\
-ilepsy. MRI has played a major role in the evaluation of patients; yet, significant proportions of lesions remain undetected by conventional imag\
-e analysis. Machine learning offers a powerful framework to develop automated and individualised clinical tools that may improve the detection of\
- lesions and prediction of clinically relevant outcome.
+Focal cortical dysplasia (FCD) is a congenital abnormality of cortical development and a leading cause of surgically remediable drug resistant epilepsy. MRI has played a major role in the evaluation of patients; yet, significant proportions of lesions remain undetected by conventional image analysis. Machine learning offers a powerful framework to develop automated and individualised clinical tools that may improve the detection of lesions and prediction of clinically relevant outcome.
 
 
 <ul class="post-list">
