@@ -15,11 +15,14 @@ In work [published in Neuroimage: Clinical](http://www.sciencedirect.com/science
 
 <figure>
 <img src="/images/Example_classifier_results.png"
-alt="FCD examples"> text-align: center
+alt="FCD examples" text-align: center>
 <figcaption>Examples of cortical area detected by the neural network classifier in 5 patients with a radiological diagnosis of FCD. First column: T1-weighted images. Second column: FLAIR images. White circle on T1 and FLAIR images indicates lesion location. Third column: Neural network classifier output (yellow) and manual lesion mask (light blue) viewed on pial surface, for large lesions, or inflated surface, for small lesions buried in sulci.</figcaption>
 </figure>
 
-Further studies have validated this method 
+Further studies have validated since validated this method:
+[Jin et al., 2019, Epilepsia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5934310/)
+
+
 
 <ul class="post-list">
 {% for post in site.categories.resources %}
