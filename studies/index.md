@@ -21,12 +21,6 @@ alt="FCD examples">
 </figure>
 </p>
 
-<figure>
-<img src="/images/WRLD-EPS-02-4001-01.png"
-alt="MELD around the world">
-<figcaption>World map showing locations of collaborators.</figcaption>
-</figure>
-
 Further studies have validated this method 
 
 <ul class="post-list">
