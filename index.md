@@ -21,7 +21,6 @@ Follow the MELD project on Tweeter to find about our lastest news :  publication
 ### Latest news 
 * **4th of March 2021** : The MELD project will be presenting two abstracts and one Datablitz' at the **BRAIN conference**, on the detection of FCD and their morphological characterisation per histopathologies 
 
-
 ### Contact
 
 You can contact us at [MELD.study@gmail.com](mailto:MELD.study@gmail.com).
