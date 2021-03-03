@@ -19,7 +19,7 @@ To get involve and join our exhaustive list of MELD collaborators visit the "Who
 Follow the MELD project on Tweeter to find about our lastest news :  publication, next conference's talks and posters, etc. 
 
 ### Latest news 
-* **4th March 2021** : The MELD project will be presenting two abstracts and one Datablitz' at the **BRAIN conference**, on the detection of FCD and their morphological characterisation per histopathologies 
+* **4th of March 2021** : The MELD project will be presenting two abstracts and one Datablitz' at the **BRAIN conference**, on the detection of FCD and their morphological characterisation per histopathologies 
 
 
 ### Contact
