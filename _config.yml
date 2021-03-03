@@ -15,13 +15,13 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
-plugins:
   - jekyll-gist
+  - jekyll-twitter
 kramdown:
   input: GFM
   auto_ids: true
@@ -60,3 +60,5 @@ twitter: #username
     ad-client:
     ad-slot:
   bing-verify:
+
+
