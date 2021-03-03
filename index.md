@@ -8,7 +8,7 @@ search_omit: true
 The Multi-centre Epilepsy Lesion Detection (MELD) project is an international collaboration dedicated to improving the detection of lesions in patients with drug-resistant epilepsy. 
 
 Currently the MELD project has three ongoing themes:
-* Automated detection of lesions in patient with drug-resistant epilepsy
+* Automated detection of lesions in patients with drug-resistant epilepsy
 * Understanding the topographical distribution of focal cortical dysplasias (FCDs)
 * Morphological characterisation of FCD lesions 
 
