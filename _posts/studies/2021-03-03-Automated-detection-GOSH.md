@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automated 
+title:  Surface-based automated FCD detection at GOSH
 categories: studies
 excerpt:
 tags: []
@@ -12,7 +12,7 @@ modified:
 share: true
 ---
 
-### Automated Detection of Focal Cortical Dysplasias
+### Automated Detection of Focal Cortical Dysplasias at GOSH using a surface-based approach
 
 Focal cortical dysplasia (FCD) is a congenital abnormality of cortical development and a leading cause of surgically remediable drug resistant epilepsy. MRI has played a major role in the evaluation of patients; yet, significant proportions of lesions remain undetected by conventional image analysis. Machine learning offers a powerful framework to develop automated and individualised clinical tools that may improve the detection of lesions and prediction of clinically relevant outcome.
 
