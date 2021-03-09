@@ -1,9 +1,13 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem "jekyll-feed"
-gem "html-proofer"
-gem 'jekyll-twitter-plugin'
+group :jekyll_plugins do
+    gem 'github-pages'
+    gem "jekyll", "~> 3.9.0"
+	gem "jekyll-sitemap"
+	gem "jekyll-gist"
+	gem "jekyll-feed"
+	gem "html-proofer"
+	gem "jekyll-twitter-plugin"
+	gem "json", "2.5.1"
+end
+

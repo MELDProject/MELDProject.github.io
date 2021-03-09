@@ -32,8 +32,8 @@ GEM
       multipart-post (>= 1.2, < 3)
       ruby2_keywords
     faraday-net_http (1.0.1)
-    ffi (1.14.2)
-    ffi (1.14.2-x64-mingw32)
+    ffi (1.15.0)
+    ffi (1.15.0-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (212)
@@ -207,6 +207,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
+    json (2.5.1)
     kramdown (2.3.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -268,7 +269,7 @@ GEM
       thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
-    unf_ext (0.0.7.6)
+    unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
     yell (2.2.2)
     zeitwerk (2.4.2)
@@ -280,11 +281,12 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
-  jekyll
+  jekyll (~> 3.9.0)
   jekyll-feed
   jekyll-gist
   jekyll-sitemap
   jekyll-twitter-plugin
+  json (= 2.5.1)
 
 BUNDLED WITH
-   2.1.2
+   2.2.14
