@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: home_page
 title: Welcome
 excerpt: "MELD project home page."
 search_omit: true
 ---
 
-The Multi-centre Epilepsy Lesion Detection (MELD) project is an international collaboration dedicated to improving the detection of lesions in patients with drug-resistant epilepsy. 
+
+  The Multi-centre Epilepsy Lesion Detection (MELD) project is an international collaboration dedicated to improving the detection of lesions in patients with drug-resistant epilepsy. 
 
 Currently the MELD project has three ongoing themes:
 * Automated detection of lesions in patients with drug-resistant epilepsy
@@ -18,15 +19,6 @@ To get involved and join our team of MELD collaborators visit the "Who's involve
 
 Follow the MELD project on Tweeter to find about our lastest news :  publications, conference talks, posters, etc. 
 
-### Latest news 
-* **4th of March 2021** : The MELD project will be presenting two abstracts and one Datablitz' at the **BRAIN conference**, on the detection of FCD and their morphological characterisation per histopathologies 
-
-<div class="field--item"><h3>Latest from Twitter</h3>
-<a class="twitter-timeline" href="https://twitter.com/mathrip3" width="300" height="500" data-tweet-limit="3"
-   data-chrome="noscrollbar noborders noheader nofooter opaque" data-link-color="#0088cc">Tweets by @mathrip3</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</div>
-
 ### Contact
 
 You can contact us at [MELD.study@gmail.com](mailto:MELD.study@gmail.com).
@@ -37,3 +29,10 @@ This website is hosted via [GitHub pages](https://github.com/MELDProject/MELDPro
 
 ## Acknowledgements
 This website is based on [Kirstie Whitaker's](https://whitakerlab.github.io/) website. It uses the [So Simple Theme](http://mmistakes.github.io/so-simple-theme) by designer slash illustrator [Michael Rose](http://mademistakes.com). THANK YOU Kirstie and Michael :tada: :sparkles:
+
+
+	
+
+
+
+
