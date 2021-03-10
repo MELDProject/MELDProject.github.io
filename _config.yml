@@ -20,7 +20,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-twitter
+  - jekyll-twitter-plugin
 kramdown:
   input: GFM
   auto_ids: true
