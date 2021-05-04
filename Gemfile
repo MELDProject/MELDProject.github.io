@@ -10,5 +10,6 @@ group :jekyll_plugins do
 	gem "jekyll-twitter-plugin"
 	gem "json", "2.5.1"
 	gem "rexml", ">= 3.2.5"
+	gem "kramdown", ">= 2.3.1"
 end
 
