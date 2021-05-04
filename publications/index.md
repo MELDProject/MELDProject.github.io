@@ -21,9 +21,11 @@ excerpt: "Publications, Talks & Posters"
 **June 22-26, 2019 - IEC 2019 - Talk** : *Multi-centre Epilepsy Lesion Detection (MELD) Project : MRI cohort for the analysis of focal cortical dysplasias*
 
 ### Posters
+**Neuroinformatics 2021:**
+* Mathilde Ripart, Hannah Spitzer, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD project: Quantitative analysis of associations between MRI features and FCD histopathologies”
 
 **BRAIN conference 2021 :** 
-* Mathilde Ripart, Hannah Spitzer, Torsten Baldeweg, MELD Consortium, Adler Sophie, and Konrad Wagstyl. 2021. “MELD project: Quantitative analysis of associations between MRI features and FCD histopathologies”
+* Mathilde Ripart, Hannah Spitzer, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD project: Quantitative analysis of associations between MRI features and FCD histopathologies”
 * Sophie Adler, Helen Cross, Torsten Baldeweg, MELD Consortium, and Konrad Wagstyl. 2021. “Multi-centre Epilepsy Lesion Detection (MELD) Project: Predictors of lesion location and postsurgical seizure freedom in focal cortical dysplasia”
 
 **Neuroinformatics 2018:**
