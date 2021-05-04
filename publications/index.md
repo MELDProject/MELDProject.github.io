@@ -22,7 +22,7 @@ excerpt: "Publications, Talks & Posters"
 
 ### Posters
 **Neuroinformatics 2021:**
-* Mathilde Ripart, Hannah Spitzer, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD project: Quantitative analysis of associations between MRI features and FCD histopathologies”
+* Mathilde Ripart, Hannah Spitzer, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD Project: Harmonisation of a large multi-centre dataset for epilepsy lesion detection”
 
 **BRAIN conference 2021 :** 
 * Mathilde Ripart, Hannah Spitzer, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD project: Quantitative analysis of associations between MRI features and FCD histopathologies”
