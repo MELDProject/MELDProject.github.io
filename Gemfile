@@ -9,5 +9,6 @@ group :jekyll_plugins do
 	gem "html-proofer"
 	gem "jekyll-twitter-plugin"
 	gem "json", "2.5.1"
+	gem "rexml", ">= 3.2.5"
 end
 
