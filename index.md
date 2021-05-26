@@ -17,7 +17,7 @@ For more details on these themes visit the "Studies" section.
 
 To get involved and join our team of MELD collaborators visit the "Who's involved" section.
 
-Sites will be required to sign our Memorandum of understanding [click here](https://meldproject.github.io//docs/MELD_Memorandum_of_Understanding_volumetric.docx)
+Sites will be required to sign our [Memorandum of understanding](https://meldproject.github.io//docs/MELD_Memorandum_of_Understanding_volumetric.docx)
 
 Follow the MELD project on Tweeter to find about our lastest news :  publications, conference talks, posters, etc. 
 
