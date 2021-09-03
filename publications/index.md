@@ -16,16 +16,26 @@ excerpt: "Publications, Talks & Posters"
 
 ### Talks
 
+**August 28- September 1, 2021 - IEC conference 2021 - Talk** : *MELD  Project:  Predictors of lesion location and presurgical seizure freedom in focal cortical dysplasia (FCD)*
+
 **March 4-5, 2021 - Brain conference 2021 - Data Blitz presentation** : *MELD  project:  Quantitative  analysis  of  associations  between  MRI features and FCD histopathologies*
 
 **June 22-26, 2019 - IEC 2019 - Talk** : *Multi-centre Epilepsy Lesion Detection (MELD) Project : MRI cohort for the analysis of focal cortical dysplasias*
 
 ### Posters
+
+**IEC 2021:**
+* Hannah Spitzer, Mathilde Ripart, J Helen Cross, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD Project: Automated surface-based detection of focal cortical dysplasia”
+* Mathilde Ripart, Hannah Spitzer, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD project: Quantitative analysis of associations between MRI features and FCD histopathologies”
+
+**OHBM 2021:**
+* Konrad Wagstyl, J Helen Cross, Torsten Baldeweg, MELD Consortium, Sophie Adler. 2021. “Multi-centre Epilepsy Lesion Detection (MELD) Project: Atlas of lesion location and postsurgical seizure freedom in focal cortical dysplasia (FCD)”
+* Mathilde Ripart, Hannah Spitzer, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD project: Quantitative analysis of associations between MRI features and FCD histopathologies”
+
 **Neuroinformatics 2021:**
 * Mathilde Ripart, Hannah Spitzer, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD Project: Harmonisation of a large multi-centre dataset for epilepsy lesion detection”
 
 **BRAIN conference 2021 :** 
-* Mathilde Ripart, Hannah Spitzer, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD project: Quantitative analysis of associations between MRI features and FCD histopathologies”
 * Sophie Adler, Helen Cross, Torsten Baldeweg, MELD Consortium, and Konrad Wagstyl. 2021. “Multi-centre Epilepsy Lesion Detection (MELD) Project: Predictors of lesion location and postsurgical seizure freedom in focal cortical dysplasia”
 
 **Neuroinformatics 2018:**
