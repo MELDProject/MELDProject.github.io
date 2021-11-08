@@ -19,6 +19,8 @@ alt="MELD around the world">
 <figcaption>World map showing locations of collaborators.</figcaption>
 </figure>
 
+We are extremely grateful to the Rosetrees Trust for their generous funding of the project.
+
 ***If you are interested in getting involved in this collaboration please do not hesitate to contact us at [MELD.study@gmail.com](mailto:MELD.study@gmail.com). In particular we are looking for interested epilepsy centres as well as research scientists, developers and database managers.***
 
 
