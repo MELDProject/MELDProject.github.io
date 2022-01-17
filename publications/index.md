@@ -20,7 +20,7 @@ excerpt: "Publications, Talks & Posters"
 [Bo Jin, Balu Krishnan, Sophie Adler, Konrad Wagstyl, Wenhan Hu, Stephen Jones, Imad Najm, et al. 2018. “Automated Detection of Focal Cortical Dysplasia Type II with Surface-Based Magnetic Resonance Imaging Postprocessing and Machine Learning.” Epilepsia 59 (5): 982–92.](https://pubmed.ncbi.nlm.nih.gov/29637549/)
 
 ### Talks
-**January 13, 2022 - Young Epilepsy Research Retreat 2022 - Talk** : *MELD Project : Predictors of lesion location and presurgical seizure freedom in focal cortical dysplasia (FCD) *
+**January 13, 2022 - Young Epilepsy Research Retreat 2022 - Talk** : *Interpretable surface-based detection of focal cortical dysplasias: a MELD study*
 
 **December 5, 2021 - AES conference 2021 - Talk** : *MELD Project : Atlas of lesion location and postsurgical seizure freedom in focal cortical dysplasia (FCD). Presented by Prof William D Gaillard due to travel restrictions*
 
