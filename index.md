@@ -11,13 +11,13 @@ search_omit: true
 <div style="display:flex; justify-content: space-around;">
   <div>
     <a href="https://meldproject.github.io//studies/">
-      <img src="/images/MELD_FCD.png alt="MELD FCD">
+      <img src="/images/MELD_FCD.png" alt="MELD FCD">
     </a>
     <p style="text-align:center"><strong>MELD FCD:</strong> Automated MRI detection of focal cortical dysplasias (FCDs)</p>
   </div>
   <div>
     <a href="https://meldproject.github.io//studies/">
-      <img src="/images/MELD_FE.png alt="MELD Focal Epilepsies">
+      <img src="/images/MELD_FE.png" alt="MELD Focal Epilepsies">
     </a>
     <p style="text-align:center"><strong>MELD Focal Epilepsies:</strong> Project to automatically detect a broad range of causes of focal epilepsy.</p>
   </div>
