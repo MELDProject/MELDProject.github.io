@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Publications, Talks & Posters
-excerpt: "Publications, Talks & Posters"
+title: Publications
+excerpt: "Publications"
 ---
 
 
 ### Publications
 
-[Hannah Spitzer*, Mathilde Ripart*, Kirstie Whitaker, Antonio Napolitano, Luca De Palma, Alessandro De Benedictis, Stephen Foldes, Zachary Humphreys, Kai Zhang, Wenhan Hu, Jiajie Mo, Marcus Likeman, Shirin Davies, Christopher Guttler, Matteo Lenge, Nathan T. Cohen, Yingying Tang, Shan Wang, Aswin Chari, Martin Tisdall, Nuria Bargallo, Estefanía Conde-Blanco, Jose Carlos Pariente, Saül Pascual-Diaz, Ignacio Delgado-Martínez, Carmen Pérez-Enríquez, Ilaria Lagorio, Eugenio Abela, Nandini Mullatti, Jonathan O'Muircheartaigh, Katy Vecchiato, Yawu Liu, Maria Caligiuri, Ben Sinclair, Lucy Vivash, Anna Willard, Jothy Kandasamy, Ailsa McLellan, Drahoslav Sokol, Mira Semmelroch, Ane Kloster, Giske Opheim, Letícia Ribeiro, Clarissa Yasuda, Camilla Rossi-Espagnet, Kai Zhang, Khalid Hamandi, Anna Tietze, Carmen Barba, Renzo Guerrini, William Davis Gaillard, Xiaozhen You, Irene Wang, Sofía González-Ortiz, Mariasavina Severino, Pasquale Striano, Domenico Tortora, Reetta Kalviainen, Antonio Gambardella, Angelo Labate, Patricia Desmond, Elaine Lui, Terence O'Brien, Jay Shetty, Graeme Jackson, John Duncan, Gavin Winston, Lars Pinborg, Fernando Cendes, Fabian J. Theis, Russell T. Shinohara, J Helen Cross, Torsten Baldeweg, Sophie Adler* and Konrad Wagstyl*. 2022. "Interpretable surface-based detection of focal cortical dysplasias: a MELD study". medRxiv](https://www.medrxiv.org/content/10.1101/2021.12.13.21267721v1)
+[Hannah Spitzer*, Mathilde Ripart*, Kirstie Whitaker, Felice D'Arco, Kshitij Mankad, Andrew Chen, Antonio Napolitano, Luca De Palma, Alessandro De Benedictis, Stephen Foldes, Zachary Humphreys, Kai Zhang, Wenhan Hu, Jiajie Mo, Marcus Likeman, Shirin Davies, Christopher Guttler, Matteo Lenge, Nathan T. Cohen, Yingying Tang, Shan Wang, Aswin Chari, Martin Tisdall, Nuria Bargallo, Estefanía Conde-Blanco, Jose Carlos Pariente, Saül Pascual-Diaz, Ignacio Delgado-Martínez, Carmen Pérez-Enríquez, Ilaria Lagorio, Eugenio Abela, Nandini Mullatti, Jonathan O'Muircheartaigh, Katy Vecchiato, Yawu Liu, Maria Caligiuri, Ben Sinclair, Lucy Vivash, Anna Willard, Jothy Kandasamy, Ailsa McLellan, Drahoslav Sokol, Mira Semmelroch, Ane Kloster, Giske Opheim, Letícia Ribeiro, Clarissa Yasuda, Camilla Rossi-Espagnet, Kai Zhang, Khalid Hamandi, Anna Tietze, Carmen Barba, Renzo Guerrini, William Davis Gaillard, Xiaozhen You, Irene Wang, Sofía González-Ortiz, Mariasavina Severino, Pasquale Striano, Domenico Tortora, Reetta Kalviainen, Antonio Gambardella, Angelo Labate, Patricia Desmond, Elaine Lui, Terence O'Brien, Jay Shetty, Graeme Jackson, John Duncan, Gavin Winston, Lars Pinborg, Fernando Cendes, Fabian J. Theis, Russell T. Shinohara, J Helen Cross, Torsten Baldeweg, Sophie Adler* and Konrad Wagstyl*. 2022. "Interpretable surface-based detection of focal cortical dysplasias: a Multi-centre Epilepsy Lesion Detection study." Brain](https://www.medrxiv.org/content/10.1101/2021.12.13.21267721v1)
 
 [Konrad Wagstyl, Kirstie Whitaker, Armin Raznahan, Jakob Seidlitz, Petra E. Vertes, Stephen Foldes, Zachary Humphreys, Wenhan Hu, Jiajie Mo, Marcus Likeman, Shirin Davies, Matteo Lenge, Nathan T. Cohen, Yingying Tang, Shan Wang, Mathilde Ripart, Aswin Chari, Martin Tisdall, Nuria Bargallo, Estefania Conde-Blanco, Jose Carlos Pariente, Saul Pascual-Diaz, Ignacio Delgado-Martinez, Carmen Perez-Enriquez, Ilaria Lagorio, Eugenio Abela, Nandini Mullatti, Jonathan O'Muircheartaigh, Katy Vecchiato, Yawu Liu, Maria Caligiuri, Ben Sinclair, Lucy Vivash, Anna Willard, Jothy Kandasamy, Ailsa McLellan, Drahoslav Sokol, Mira Semmelroch, Ane Kloster, Giske Opheim, Clarissa Yasuda, Kai Zhang, Khalid Hamandi, Carmen Barba, Renzo Guerrini, William Davis Gaillard, Xiaozhen You, Irene Wang, Sofia Gonzalez-Ortiz, Mariasavina Severino, Pasquale Striano, Domenico Tortora, Reetta Kalviainen, Antonio Gambardella, Angelo Labate, Patricia Desmond, Elaine Lui, Terry O'Brien, Jay Shetty, Graeme Jackson, John S. Duncan, Gavin P. Winston, Lars Pinborg, Fernando Cendes, Judith Helen Cross, Torsten Baldeweg and Sophie Adler. 2022. "Atlas of lesion locations and postsurgical seizure freedom in focal cortical dysplasia: A MELD study." Epilepsia 63 (1): 61-75](https://onlinelibrary.wiley.com/doi/10.1111/epi.17130)
 
@@ -18,37 +18,3 @@ excerpt: "Publications, Talks & Posters"
 
 ### Replication studies
 [Bo Jin, Balu Krishnan, Sophie Adler, Konrad Wagstyl, Wenhan Hu, Stephen Jones, Imad Najm, et al. 2018. “Automated Detection of Focal Cortical Dysplasia Type II with Surface-Based Magnetic Resonance Imaging Postprocessing and Machine Learning.” Epilepsia 59 (5): 982–92.](https://pubmed.ncbi.nlm.nih.gov/29637549/)
-
-### Talks
-**January 13, 2022 - Young Epilepsy Research Retreat 2022 - Talk** : *Interpretable surface-based detection of focal cortical dysplasias: a MELD study*
-
-**December 5, 2021 - AES conference 2021 - Talk** : *MELD Project : Atlas of lesion location and postsurgical seizure freedom in focal cortical dysplasia (FCD). Presented by Prof William D Gaillard due to travel restrictions*
-
-**August 28- September 1, 2021 - IEC conference 2021 - Talk** : *MELD  Project:  Predictors of lesion location and presurgical seizure freedom in focal cortical dysplasia (FCD)*
-
-**March 4-5, 2021 - Brain conference 2021 - Data Blitz presentation** : *MELD  project:  Quantitative  analysis  of  associations  between  MRI features and FCD histopathologies*
-
-**June 22-26, 2019 - IEC 2019 - Talk** : *Multi-centre Epilepsy Lesion Detection (MELD) Project : MRI cohort for the analysis of focal cortical dysplasias*
-
-### Posters
-
-**AES 2021:**
-* Hannah Spitzer*, Mathilde Ripart*, J Helen Cross, Torsten Baldeweg, MELD Consortium, Sophie Adler*, and Konrad Wagstyl*. 2021. “MELD Project: Automated surface-based detection of focal cortical dysplasia”
-* Konrad Wagstyl, J Helen Cross, Torsten Baldeweg, MELD Consortium, Sophie Adler. 2021. “Multi-centre Epilepsy Lesion Detection (MELD) Project: Atlas of lesion location and postsurgical seizure freedom in focal cortical dysplasia (FCD)”
-
-**IEC 2021:**
-* Hannah Spitzer, Mathilde Ripart, J Helen Cross, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD Project: Automated surface-based detection of focal cortical dysplasia”
-* Mathilde Ripart, Hannah Spitzer, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD project: Quantitative analysis of associations between MRI features and FCD histopathologies”
-
-**OHBM 2021:**
-* Konrad Wagstyl, J Helen Cross, Torsten Baldeweg, MELD Consortium, Sophie Adler. 2021. “Multi-centre Epilepsy Lesion Detection (MELD) Project: Atlas of lesion location and postsurgical seizure freedom in focal cortical dysplasia (FCD)”
-* Mathilde Ripart, Hannah Spitzer, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD project: Quantitative analysis of associations between MRI features and FCD histopathologies”
-
-**Neuroinformatics 2021:**
-* Mathilde Ripart, Hannah Spitzer, Torsten Baldeweg, MELD Consortium, Sophie Adler, and Konrad Wagstyl. 2021. “MELD Project: Harmonisation of a large multi-centre dataset for epilepsy lesion detection”
-
-**BRAIN conference 2021 :** 
-* Sophie Adler, Helen Cross, Torsten Baldeweg, MELD Consortium, and Konrad Wagstyl. 2021. “Multi-centre Epilepsy Lesion Detection (MELD) Project: Predictors of lesion location and postsurgical seizure freedom in focal cortical dysplasia”
-
-**Neuroinformatics 2018:**
-* [Sophie Adler, Kirstie Whitaker, Mira Semmelroch, MELD Consortium, Z. Irene Wang, J. Helen Cross, Torsten Baldeweg, and Konrad Wagstyl. 2018. “Multi-Centre Epilepsy Lesion Detection (MELD) Project: Conducting Clinical Research in an Open-Science Framework.”](https://f1000research.com/posters/7-1243)

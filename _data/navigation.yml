@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: Home
+- title: Welcome
   url: /
 
 - title: Who's Involved
@@ -9,7 +9,7 @@
 - title: Studies
   url: /studies/
 
-- title: Publications, Talks & Posters
+- title: Publications
   url: /publications/
 
 - title: GitHub
