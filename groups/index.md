@@ -9,7 +9,7 @@ excerpt: "Members of the MELD Project"
 
 We are delighted that our multi-centre collaboration involves groups from around the world.
 
-Please [click here](https://meldproject.github.io//docs/collaborator_list.pdf) for a list of current collaborators.
+Please [click here](https://meldproject.github.io//docs/collaborator_list_030423.pdf) for a list of current collaborators.
 
 Dr Sophie Adler-Wagstyl and Dr Konrad Adler-Wagstyl co-lead the MELD Project.
 
