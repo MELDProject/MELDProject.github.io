@@ -16,7 +16,7 @@ search_omit: true
     <p style="text-align:center"><strong>MELD FCD:</strong> Automated MRI detection of focal cortical dysplasias (FCDs)</p>
   </div>
   <div>
-    <a href="https://meldproject.github.io//studies/">
+    <a href="https://meldproject.github.io//studies/Atlas-FCD/">
       <img src="/images/MELD_FE.png" alt="MELD Focal Epilepsies">
     </a>
     <p style="text-align:center"><strong>MELD Focal Epilepsies:</strong> Project to automatically detect a broad range of causes of focal epilepsy.</p>
