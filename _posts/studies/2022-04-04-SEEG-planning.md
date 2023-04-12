@@ -34,10 +34,10 @@ alt="Example case report where there is concordance between ictal contacts and c
 <figcaption>Example case report where there is concordance between ictal contacts and classifier output.  The case includes a brief clinical overview (left upper), a plot of distance of the stereoelectroencephalography (sEEG) contacts from the predicted lesion (right upper), visualization of the electrode positioning (ictal contacts = red, interictal = yellow, other = black) with automated clusters (red = top cluster, yellow = other clusters, lower panels), and a coronal section of the FLAIR MRI scan with lesion indicated by red arrow. </figcaption>
 </figure>
 
-*** We found that in 62% of the patients with focal SOZs and 86% of histopathologically confirmed FCDs the results were concordant! ***
+**We found that in 62% of the patients with focal SOZs and 86% of histopathologically confirmed FCDs the results were concordant!**
 
 This suggested that incorporating deep-learning-based MRI analysis could be a useful tool for planning sEEG implantations. 
 
 One **limitation** of the study was its retrospective nature, which meant that further research was needed to determine the effectiveness of the automated method in a prospective study. 
 
-**However, the study provided a framework for using automated lesion detection to plan optimal electrode trajectories and the results supported the prospective evaluation of this approach in future studies. This work led the MAST clinical trial!**
+**However, the study provided a framework for using automated lesion detection to plan optimal electrode trajectories and the results supported the prospective evaluation of this approach in future studies. This work led TO the MAST clinical trial!**
