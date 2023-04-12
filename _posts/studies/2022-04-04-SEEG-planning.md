@@ -2,7 +2,7 @@
 layout: post
 title:  Planning SEEG using automated lesion detection
 categories: studies
-excerpt: 
+excerpt: Planning SEEG using automated lesion detection
 tags: []
 image:
   feature:
