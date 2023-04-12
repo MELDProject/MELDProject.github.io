@@ -27,11 +27,11 @@ search_omit: true
 </div>
 
 
-To get involved and join our team of MELD collaborators visit the "Who's involved" section.
+To get involved and join our team of MELD collaborators visit [Who's involved](https://meldproject.github.io//groups/).
 
-To read more about the research we do, check out the "Studies" section.
+To read more about the research we do, check out the [Studies section](https://meldproject.github.io//studies/).
 
-Follow @meld_project on Twitter to find out about our latest news :  publications, conference talks, posters, etc. 
+Follow @meld_project on [Twitter](https://twitter.com/meld_project) to find out about our latest news :  publications, conference talks, posters, etc. 
 
 ### Contact
 
