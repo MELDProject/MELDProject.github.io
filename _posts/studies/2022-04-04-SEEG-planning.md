@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Atlases of FCDs
+title:  Planning SEEG using automated lesion detection
 categories: studies
-excerpt: Atlas of lesion locations and post-surgical seizure freedom in FCD
+excerpt: 
 tags: []
 image:
   feature:
