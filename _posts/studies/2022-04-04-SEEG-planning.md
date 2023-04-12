@@ -21,7 +21,7 @@ In this study [published in Epilepsia](https://www.ncbi.nlm.nih.gov/pmc/articles
 The study trained a neural network classifier to identify lesions in MRI data from 34 patients with known cortical dysplasias and 20 healthy controls. 
 
 <figure>
-<img src="/images/seeg_method.jpeg"
+<img src="/images/seeg_method.jpeg" width="50%" height="50%"
 alt="Framework for automated lesion detection and colocalization with sEEG electrodes.">
 <figcaption> Framework for automated lesion detection and colocalization with sEEG electrodes. A, Surface‐based feature extraction, lesion labeling, and training of neural network classifier on MRI‐positive patient cohort. B, Testing of classifier on presurgical MRI of patients undergoing sEEG.</figcaption>
 </figure>
