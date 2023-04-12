@@ -5,6 +5,9 @@ excerpt: "MELD project home page."
 search_omit: true
 ---
 
+<figure>
+<img src="/images/MELD_bridget.png">
+</figure>
 
   The Multi-centre Epilepsy Lesion Detection (MELD) project is an international collaboration dedicated to improving the detection of lesions in patients with drug-resistant epilepsy. 
 
