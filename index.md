@@ -31,8 +31,6 @@ To get involved and join our team of MELD collaborators visit [Who's involved](h
 
 To read more about the research we do, check out the [Studies section](https://meldproject.github.io//studies/).
 
-Follow @meld_project on [Twitter](https://twitter.com/meld_project) to find out about our latest news :  publications, conference talks, posters, etc. 
-
 ### Contact
 
 You can contact us at [MELD.study@gmail.com](mailto:MELD.study@gmail.com).
