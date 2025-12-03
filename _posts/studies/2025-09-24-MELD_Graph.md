@@ -7,24 +7,23 @@ tags: []
 image:
   feature:
 link:
-date: 2025-09-27
+date: 2025-12-03
+by: Mathilde Ripart
 modified:
 share: true
 ---
 
 ### Graph based FCD lesion segmentation - a MELD study
 
+Focal Cortical Dysplasia (FCD) are small abnormalities occuring during brain development that can cause epileptic seizures. Identifying these lesions on MRI and removing them surgically can often cure epilepsy. However, FCDs are frequently subtle and difficult to detect, and up to half are missed by radiologists. 
 
-Focal Cortical Dysplasia (FCD) are small brain lesions that occurs during brain development and that can cause epilepsy seizure. Finding the lesion on MRI scan and removing it with surgery can cure the patient from epilepsy seizure. However, FCDs can be subtle and difficult to see with the human eye and up to half of these lesions are missed by radiologists. 
+Previously, our group developed [MELD FCD](/_posts/studies/2022-08-06-MELD_FCD.md) an AI model trained on a large, multicentre MRI dataset of epilepsy patients and controls. The model can detect 67% of FCD lesions, but typically produced around two false-positive clusters per subject. This is a common challenge in lesion-detection AI models, which increases the radiologist’s workload as they need to review more putative lesions.
 
-Previously, our group has developped [MELD FCD](/_posts/studies/2022-08-06-MELD_FCD.md), a AI model trained on a large dataset of MRI scans from epilepsy patients and controls and capable of detecting 67% of FCD lesions. However, as well as predicting the lesion, the model also predicted on average 2 false-positive cluster per subjects, meaning that radiologists had to review few predicted clusters in order to find the correct lesion. This high number of false-positive prediction is a common challenge faced by many AI models that do image detection. 
+In work published in [published in JAMA Neurology in 2025](https://jamanetwork.com/journals/jamaneurology/article-abstract/2830410), the Multi-centre Epilepsy Lesion Detection (MELD) Project introduced a new graph-based AI model with substantially improved accuracy.
 
-In work [published in JAMA](https://jamanetwork.com/journals/jamaneurology/article-abstract/2830410) in 2025, the Multi-centre Epilepsy Lesion Detection (MELD) Project details the development of a new AI Graph based model capable of detecting FCD lesions with bette accuracy.
+To build this model (MELD Graph), we used a graph neural network trained on surface-based cortical features. Unlike the previous multilayer perceptron (MLP) approach, which analysed each cortical vertex independently, the graph neural network take into consideration neighbourhood information, makink the model more aware about the surrounding tissue.
 
-For that, we used a graph neural network (MELD Graph) trained to identify FCD on surface-based features. Compare to the previous FCD model which used a multilayer perceptron (MLP) model trained on each individual point of the brain surface, the graph neural network offers the advantage of taking in consideration neighbourgh points, and therefore having a context of the surrounding tissues in the prediction of a single point. 
-
-To enable comparison with our previous MLP model, MELD Graph was trained and evaluated on the same multicentre dataset of 703 epilepsy patients detailed in the [publication](https://jamanetwork.com/journals/jamaneurology/article-abstract/2830410). 
-
+To allow direct comparison, MELD Graph was trained and evaluated on the same multicentre dataset of 703 patients described in the original publication.
 
 <figure>
 <img src="/images/MELD_Graph_overview.jpg"
@@ -34,9 +33,9 @@ alt="MELD Graph processing pipeline.">
 
 ### Results ####
 
-In the test dataset (n=260 patients), MELD Graph accuracy was 67% (70% sensitivity; 60% specificity), compared with 39% (67% sensitivity; 54% specificity) using the previous MELD FCD model. On average, MELD Graph predicted no false-positive prediction. As well as producing an interpretable reports characterize the lesion location, size, and salient features, MELD Graph also output a confidence score associated with the prediction.
+In the test dataset (n=260 patients), MELD Graph achieved 67% accuracy (70% sensitivity; 60% specificity), compared with 39% accuracy (67% sensitivity; 54% specificity) for the earlier MELD MLP model. Importantly, MELD Graph produced zero false-positive predictions on average. Along with the predicted lesion, MELD Graph also generates interpretable reports describing lesion location, size, salient features, and a confidence score.
 
-Below are examples of the predictions with MELD Graph and MELD MLP, and the reduction of number of false-positive predictions using MELD Graph:
+Below are examples showing MELD Graph vs. MELD MLP predictions and the reduction in false positives:
 
 <figure>
 <img src="/images/MELD_Graph_predictions.jpg"
@@ -46,7 +45,7 @@ alt="Example of ">
 
 ### Running the pipeline on new patients ###
 
-Our pipeline outputs individual patient reports with the location of predicted lesions, along with their imaging features and relative saliency to the classifier and a confidence score. The pipeline also maps the predicted lesions back to the native T1 so that they can be reviewed by a radiologist. 
+The pipeline outputs an individualised patient report including predicted lesion location, imaging features, saliency values, and a confidence score. Predicted lesions are also mapped back to the native T1 image for radiological review.
 
 <figure>
 <img src="/images/MELD_Graph_patient_report.jpg"
@@ -58,10 +57,10 @@ expert radiologists but detected by MELD Graph with low confidence (7%). (A) Cla
 
 **MELD Graph worldwide use**
 
-MELD Graph is open-source and can be downloaded from [Github](https://github.com/MELDProject/meld_graph). It is available on multiple OS systems (Mac, Windows, Linux).
+MELD Graph is open-source and available on macOS, Windows, and Linux via [Github](https://github.com/MELDProject/meld_graph). Tutorial videos to help install and uses the tool are available on our [Youtube channel](https://www.youtube.com/@MELDproject)
 
-In December 2025 (10 months after publication), MELD Graph is reported to have being used in over 100 hospitals worldwide as a research tool. 
+As of December 2025 (10 months after publication), it is reported to be in use in more than 100 hospitals worldwide as a research tool. Our work has also been featured in the news, including coverage by the [BBC](https://www.bbc.co.uk/news/articles/cvg1xd7l5pvo) and [Reuters](https://www.dailymotion.com/video/x9fwx0u). 
 
-Our work has been featured in the news at [BBC](https://www.bbc.co.uk/news/articles/cvg1xd7l5pvo)
+*Written with the assistance of ChatGPT*
 
 
