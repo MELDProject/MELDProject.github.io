@@ -8,7 +8,7 @@ image:
   feature:
 link:
 date: 2025-12-03
-by: Mathilde Ripart
+author: Mathilde Ripart
 modified:
 share: true
 ---
