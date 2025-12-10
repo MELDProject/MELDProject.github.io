@@ -32,17 +32,14 @@ search_omit: true
 </div>
 
 <!-- New row below -->
-<div style="display:flex; justify-content: center; margin-top: 20px;">
-  <div>
+<div style="display:flex; justify-content:center; margin-top:25px;">
+  <div style="max-width:250px; text-align:center;">
     <a href="https://meldproject.github.io//studies/AID-HS/">
-      <p style="text-align:center">
-        <strong>AID-HS:</strong> Automated and Interpretable Detection of Hippocampal Sclerosis.
-      </p>
-      <!-- <img src="PATH_TO_NEW_IMAGE" alt="New Study"> -->
+      <p><strong>AID-HS:</strong> Automated and Interpretable Detection of Hippocampal Sclerosis.</p>
+      <img src="/images/AID-HS_pict.png" alt="AID-HS" style="width:100%; height:auto;">
     </a>
   </div>
 </div>
-
 
 To get involved and join our team of MELD collaborators visit [Who's involved](https://meldproject.github.io//groups/).
 
