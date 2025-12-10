@@ -14,14 +14,31 @@ search_omit: true
 <div style="display:flex; justify-content: space-around;">
   <div>
     <a href="https://meldproject.github.io//studies/MELD_Graph/">
-          <p style="text-align:center"><strong>MELD Graph:</strong> Automated MRI detection of focal cortical dysplasias (FCDs) using Graph Neural Network</p>
+      <p style="text-align:center">
+        <strong>MELD Graph:</strong> Automated MRI detection of focal cortical dysplasias (FCDs) using Graph Neural Network
+      </p>
       <img src="/images/MELD_FCD_thin.png" alt="MELD FCD">
     </a>
   </div>
+
   <div>
     <a href="https://meldproject.github.io//studies/FocalEpilepsies/">
-          <p style="text-align:center"><strong>MELD Focal Epilepsies:</strong> Project to automatically detect a broad range of causes of focal epilepsy.</p>
+      <p style="text-align:center">
+        <strong>MELD Focal Epilepsies:</strong> Project to automatically detect a broad range of causes of focal epilepsy.
+      </p>
       <img src="/images/MELD_FE.png" alt="MELD Focal Epilepsies">
+    </a>
+  </div>
+</div>
+
+<!-- New row below -->
+<div style="display:flex; justify-content: center; margin-top: 20px;">
+  <div>
+    <a href="https://meldproject.github.io//studies/AID-HS/">
+      <p style="text-align:center">
+        <strong>AID-HS:</strong> Automated and Interpretable Detection of Hippocampal Sclerosis.
+      </p>
+      <!-- <img src="PATH_TO_NEW_IMAGE" alt="New Study"> -->
     </a>
   </div>
 </div>
