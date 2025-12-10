@@ -13,8 +13,8 @@ search_omit: true
 
 <div style="display:flex; justify-content: space-around;">
   <div>
-    <a href="https://meldproject.github.io//studies/MELD_FCD/">
-          <p style="text-align:center"><strong>MELD FCD:</strong> Automated MRI detection of focal cortical dysplasias (FCDs)</p>
+    <a href="https://meldproject.github.io//studies/MELD_Graph/">
+          <p style="text-align:center"><strong>MELD Graph:</strong> Automated MRI detection of focal cortical dysplasias (FCDs) using Graph Neural Network</p>
       <img src="/images/MELD_FCD_thin.png" alt="MELD FCD">
     </a>
   </div>
