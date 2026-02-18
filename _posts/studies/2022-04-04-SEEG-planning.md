@@ -9,6 +9,7 @@ image:
 link:
 date: 2022-04-04
 modified:
+author: sophie_konrad
 share: true
 ---
 ### Planning SEEG using automated lesion detection

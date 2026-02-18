@@ -18,8 +18,15 @@ konrad_wagstyl:
   avatar: KW_avatar.png
   twitter: KonradWagstyl
 
-meld:
+sophie_konrad:
   name: Sophie Adler and Konrad Wagstyl
+  email: konrad.wagstyl@gmail.com
+  bio: 
+  avatar: 
+  twitter:
+
+meld:
+  name: Sophie Adler, Konrad Wagstyl and Mathilde Ripart
   email: MELD.study@gmail.com
   bio: "" # Add a few words about yourself within the quotation marks.
   avatar: MELD_logo.png
