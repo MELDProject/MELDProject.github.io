@@ -25,6 +25,14 @@ meld:
   avatar: MELD_logo.png
   twitter: # Ok to leave blank
 
+mathilde_ripart:
+  name: Mathilde Ripart
+  email: mathilde.ripart@gmail.com
+  bio: "Research Associate at UCL Institute of Child Health, interested in epilepsy, open science and machine learning."
+  avatar: 
+  twitter: 
+
+
 #=============================================
 # Template info, these can be deleted one day
 

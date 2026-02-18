@@ -8,11 +8,7 @@ image:
   feature:
 link:
 date: 2025-12-03
-author:
-  name: Mathilde Ripart
-  avatar: MELD_logo.png
-  mail: MELD.study@gmail.com
-  disqus-shortname:
+author: mathilde_ripart
 
 modified:
 share: true
