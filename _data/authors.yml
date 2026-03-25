@@ -34,8 +34,15 @@ meld:
 
 mathilde_ripart:
   name: Mathilde Ripart
-  email: mathilde.ripart@gmail.com
+  email: m.ripart@ucl.ac.uk
   bio: "Research Associate at UCL Institute of Child Health, interested in epilepsy, open science and machine learning."
+  avatar: 
+  twitter: 
+
+jieun_seo:
+  name: Jieun Seo
+  email: jieun.seo.22@ucl.ac.uk
+  bio: "PhD student at UCL Institute of Child Health, interested in epilepsy, open science and machine learning."
   avatar: 
   twitter: 
 
