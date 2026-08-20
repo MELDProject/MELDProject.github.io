@@ -24,14 +24,14 @@ search_omit: true
   <div style="flex: 1;">
     <a href="https://meldproject.github.io//studies/FocalEpilepsies/">
       <p style="text-align:center">
-        <strong>MELD Focal Epilepsies:</strong> Project to automatically detect a broad range of causes of focal epilepsy.
+        <strong>MELD Focal Epilepsies:</strong> Project to automatically detect a broad range of causes of focal epilepsy
       </p>
       <img src="/images/MELD_FE.png" alt="MELD Focal Epilepsies" style="max-width: 100%;">
     </a>
   </div>
 </div>
 
-<div style="display:flex; justify-content: space-around; margin-top:25px; gap: 20px;">
+<div style="display:flex; justify-content: space-around; margin-top:25px; gap: 20px; margin-bottom: 30px;">
   <div style="flex: 1;">
     <a href="https://meldproject.github.io//studies/AID-HS/">
       <p style="text-align:center">
@@ -44,13 +44,12 @@ search_omit: true
   <div style="flex: 1;">
     <a href="https://meldproject.github.io//studies/MELD_postop/">
       <p style="text-align:center">
-        <strong>MELD PostOp:</strong> Automated Segmentation of Post-Surgical Resection Cavities on MRI .
+        <strong>MELD PostOp:</strong> Automated Segmentation of Post-Surgical Resection Cavities on MRI
       </p>
       <img src="/images/MELD_PostOp.jpg" alt="MELD PostOp" style="max-width: 100%;">
     </a>
   </div>
 </div>
-
 
 
 
