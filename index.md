@@ -31,18 +31,8 @@ search_omit: true
   </div>
 </div>
 
-<!-- New row below
-<div style="display:flex; justify-content:center; margin-top:25px;">
-  <div style="max-width:400px; text-align:center;">
-    <a href="https://meldproject.github.io//studies/AID-HS/">
-      <p><strong>AID-HS:</strong> Automated and Interpretable Detection of Hippocampal Sclerosis.</p>
-      <img src="/images/AID-HS_pict.png" alt="AID-HS" style="width:100%; height:auto;">
-    </a>
-  </div>
-</div> -->
-
 <div style="display:flex; justify-content: space-around; margin-top:25px;">
-  <div>
+  <div style="flex: 1;">
     <a href="https://meldproject.github.io//studies/AID-HS/">
       <p style="text-align:center">
         <strong>Automated and Interpretable Detection of Hippocampal Sclerosis
@@ -51,7 +41,7 @@ search_omit: true
     </a>
   </div>
 
-  <div>
+  <div style="flex: 1;">
     <a href="https://meldproject.github.io//studies/MELD_postop/">
       <p style="text-align:center">
         <strong>Automated Segmentation of Post-Surgical Resection Cavities on MRI .
