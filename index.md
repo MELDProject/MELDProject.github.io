@@ -41,6 +41,27 @@ search_omit: true
   </div>
 </div>
 
+<!-- <div style="display:flex; justify-content: space-around;">
+  <div>
+    <a href="https://meldproject.github.io//studies/AID-HS/">
+      <p style="text-align:center">
+        <strong>Automated and Interpretable Detection of Hippocampal Sclerosis
+      </p>
+      <img src="/images/AID-HS_pict.png" alt="AID-HS">
+    </a>
+  </div>
+
+  <div>
+    <a href="https://meldproject.github.io//studies/MELD_PostOp/">
+      <p style="text-align:center">
+        <strong>Automated Segmentation of Post-Surgical Resection Cavities on MRI .
+      </p>
+      <img src="/images/MELD_PostOp.png" alt="MELD PostOp">
+    </a>
+  </div>
+</div> -->
+
+
 To get involved and join our team of MELD collaborators visit [Who's involved](https://meldproject.github.io//groups/).
 
 To read more about the research we do, check out the [Studies section](https://meldproject.github.io//studies/).
