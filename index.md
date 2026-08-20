@@ -41,7 +41,7 @@ search_omit: true
   </div>
 </div> -->
 
-<div style="display:flex; justify-content: space-around;">
+<div style="display:flex; justify-content: space-around; margin-top:25px;">
   <div>
     <a href="https://meldproject.github.io//studies/AID-HS/">
       <p style="text-align:center">
@@ -52,7 +52,7 @@ search_omit: true
   </div>
 
   <div>
-    <a href="https://meldproject.github.io//studies/MELD_PostOp/">
+    <a href="https://meldproject.github.io//studies/MELD_postop/">
       <p style="text-align:center">
         <strong>Automated Segmentation of Post-Surgical Resection Cavities on MRI .
       </p>
