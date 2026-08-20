@@ -31,7 +31,7 @@ search_omit: true
   </div>
 </div>
 
-<!-- New row below -->
+<!-- New row below
 <div style="display:flex; justify-content:center; margin-top:25px;">
   <div style="max-width:400px; text-align:center;">
     <a href="https://meldproject.github.io//studies/AID-HS/">
@@ -39,9 +39,9 @@ search_omit: true
       <img src="/images/AID-HS_pict.png" alt="AID-HS" style="width:100%; height:auto;">
     </a>
   </div>
-</div>
+</div> -->
 
-<!-- <div style="display:flex; justify-content: space-around;">
+<div style="display:flex; justify-content: space-around;">
   <div>
     <a href="https://meldproject.github.io//studies/AID-HS/">
       <p style="text-align:center">
@@ -56,10 +56,10 @@ search_omit: true
       <p style="text-align:center">
         <strong>Automated Segmentation of Post-Surgical Resection Cavities on MRI .
       </p>
-      <img src="/images/MELD_PostOp.png" alt="MELD PostOp">
+      <img src="/images/MELD_PostOp.jpg" alt="MELD PostOp">
     </a>
   </div>
-</div> -->
+</div>
 
 
 To get involved and join our team of MELD collaborators visit [Who's involved](https://meldproject.github.io//groups/).
