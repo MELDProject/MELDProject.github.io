@@ -11,7 +11,7 @@ search_omit: true
 
   The Multi-centre Epilepsy Lesion Detection (MELD) project is an international collaboration dedicated to improving the detection of lesions in patients with drug-resistant epilepsy. 
 
-<div style="display:flex; justify-content: space-around;">
+<div style="display:flex; justify-content: space-around; gap: 20px;">
   <div style="flex: 1;">
     <a href="https://meldproject.github.io//studies/MELD_Graph/">
       <p style="text-align:center">
@@ -31,7 +31,7 @@ search_omit: true
   </div>
 </div>
 
-<div style="display:flex; justify-content: space-around; margin-top:25px;">
+<div style="display:flex; justify-content: space-around; margin-top:25px; gap: 20px;">
   <div style="flex: 1;">
     <a href="https://meldproject.github.io//studies/AID-HS/">
       <p style="text-align:center">
@@ -50,6 +50,8 @@ search_omit: true
     </a>
   </div>
 </div>
+
+
 
 
 To get involved and join our team of MELD collaborators visit [Who's involved](https://meldproject.github.io//groups/).
